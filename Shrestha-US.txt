@@ -1,0 +1,4 @@
+1) As a freshman, I want to know about the workload of the class I will be taking, so that I can better prepare for the class.
+2) As a sophomore, I want to compare multiple electives and GE classes based on the workload and course content, so that I can plan a better schedule.
+3) As a senior, I want to share my notes and other experiences on class content with other students, so that I can make some money out of it and also help them with the class.
+
