@@ -1,0 +1,14 @@
+As a student, I want to be able to provide and read feedback about students’ 
+experiences with certain classes at Cal Poly, so all students can be better 
+prepared for required classes and know which technical elective or GE classes 
+are good for my college experience.
+
+As a teacher, I want to be able to see which of the classes I teach are 
+successful in a student’s education and which ones need improving, so I can 
+work with my peers that also teach these classes to improve both the material 
+and the teaching we provide for the students.
+
+As an administrator, I want to be able to see which classes in my department 
+are popular or unpopular with students, so that I can make sure there are more 
+sections of popular classes provided each quarter and seek ways to either 
+improve or cut unpopular classes.
