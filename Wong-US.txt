@@ -1,6 +1,6 @@
-As a student user, I want to see student recommendations for the class, so that I can follow them during the quarter.
+As a student user, I want to see student recommendations for the class, so that I can follow them.
 
 As a student user, I want to see a syllabus of the class, so that I can view the class curriculum.
 
-As a teacher user, I want to see common student critiques of a class I am going to teach, so that I can cater the material and teaching style to the students.
+As a teacher user, I want to see common student critiques of the class I teach, so that I can cater the material and teaching style to the students.
 
