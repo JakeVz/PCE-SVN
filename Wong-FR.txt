@@ -1,0 +1,4 @@
+The system shall provide a function to input average hours per week spent studying for a class.
+The system shall display syllabi of the class uploaded by students or teachers.
+The system shall contain a report button for each user post that notify the admin to check the post for inappropriate content.
+
