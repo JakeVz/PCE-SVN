@@ -1,0 +1,16 @@
+*** READ AND UPDATE IF NEEDED ***
+
+to add the repo to your PC:
+   Copy the URL of the git repo and run the command "svn checkout <URL>"
+
+To make a filr or DIR
+   MUST BE IN BRANCHES OR TRUCK
+   MUST RUN THE COMMAND "svn add <name of the file you just created>
+
+To commit
+   run "svn commit" or "svn commit -m <message>"
+
+When you delete a file
+   delete it, then use "svn delete <file name>"
+
+Before you commit, you may have to run "svn up" to update the REPO on your PC
