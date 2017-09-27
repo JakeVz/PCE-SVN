@@ -1,7 +1,7 @@
-As a <Cal Poly Student in Computer Science>, I want to <use the PCE function to look at classes at Cal Poly>, So that <I can find the easiest GE to take>.
+As a Cal Poly Student, I want to to see the ratings of classes, so that I can find the class that best fits what I want to do.
 
-As a <Cal Poly Professor>, I want to <See what students are posting on PCE>, So that <I can fix issues that students have in a specific course to make Cal Poly better for future students>.
+As a Cal Poly Professor, I want to see what students stay about their classes, so that I can fix issues that students have in a specific course.
 
-As a <Cal Poly Student in Computer Science>, I want to <search for classes in my major that have many ratings, descriptions, and uploaded documents>, So that <I can find the technical elective that best suits my interests>.
+As a Cal Poly Student, I want to see what other students said about a class, so that I know if I can handle the workload with other classes too.
 
 
