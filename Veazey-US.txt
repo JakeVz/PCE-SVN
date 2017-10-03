@@ -1,6 +1,6 @@
 As a Cal Poly Student, I want to to see the ratings of classes, so that I can find the class that best fits what I want to do.
 
-As a Cal Poly Professor, I want to see what students stay about their classes, so that I can fix issues that students have in a specific course.
+As a Cal Poly Professor, I want to see what students say about their classes, so that I can fix issues that students have in a specific course.
 
 As a Cal Poly Student, I want to see what other students said about a class, so that I know if I can handle the workload with other classes too.
 
