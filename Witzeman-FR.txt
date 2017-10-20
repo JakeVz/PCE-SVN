@@ -1,7 +1,0 @@
-The system shall display 20 user reviews on a page, and multiple pages if there
-are more reviews.
-
-The system shall display the date of submission with each review.
-
-The system shall display a class's rating in larger text than the accompanying
-review.
