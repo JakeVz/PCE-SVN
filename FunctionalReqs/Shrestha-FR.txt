@@ -1,0 +1,4 @@
+1) The system shall store the course information such as professors, difficulty ratings, comments added by the user.
+2) The system shall search for the course using a keyword, professor’s name or course department and number.
+3) The system shall display the course information to the users.
+

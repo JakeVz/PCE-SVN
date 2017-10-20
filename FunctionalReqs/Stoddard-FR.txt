@@ -1,0 +1,4 @@
+1. The system shall allow students to leave a star rating and comments for any course they have taken.
+2. The system shall display the average of all the ratings for each course. If a course has no ratings, the system shall say that instead.
+3. The system shall display all the comments for each course for any user to view.
+

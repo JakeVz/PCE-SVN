@@ -1,0 +1,6 @@
+The system shall allow students to anonymously upload personal opinions on the class which may include their own definitions of ease, workload, and necessity. 
+
+The system shall be able to sort by class and provide the feedback submitted by other students
+
+The system shall be able to read critiques on their specific classes and tailor them more based on the students’ needs and desires in order to create a better environment for the future students.
+

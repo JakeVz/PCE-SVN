@@ -1,0 +1,8 @@
+As a student, I want to know other students' options about a class, so that I 
+have a base of anecdotal knowledge about it.
+
+As a reviewer, I want to provide my honest opinion, so that readers can use my 
+experience to influence their decision.
+
+As a statistician, I want to compile an average rating of each class, so that
+I can see which one of a certain category has the highest rating.
