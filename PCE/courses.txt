@@ -1,0 +1,4338 @@
+*** AERO ***
+AERO 121: Aerospace Fundamentals
+AERO 200: Special Problems for Undergraduates
+AERO 215: Introduction to Aerospace Design
+AERO 220: Aerospace Systems Engineering and Integration
+AERO 270: Selected Topics
+AERO 299: Aerospace Thermodynamics
+AERO 300: Aerospace Engineering Analysis
+AERO 302: Aerospace Fluid Mechanics
+AERO 303: Aerospace Gas Dynamics and Heat Transfer
+AERO 304: Experimental Aerothermodynamics
+AERO 306: Aerodynamics and Flight Performance
+AERO 307: Experimental Aerodynamics
+AERO 310: Air and Space
+AERO 311: Aircraft Development History
+AERO 320: Fundamentals of Dynamics and Control
+AERO 321: Experimental Sensors, Actuators and Control
+AERO 331: Aerospace Structural Analysis I
+AERO 351: Introduction to Orbital Mechanics
+AERO 353: Spacecraft Environment
+AERO 354: Space Environment Laboratory
+AERO 360: Creative Problem Solving in Engineering Design
+AERO 400: Special Problems for Advanced Undergraduates
+AERO 401: Propulsion Systems
+AERO 402: Spacecraft Propulsion Systems
+AERO 405: Supersonic and Hypersonic Aerodynamics
+AERO 406: Applied Computational Fluid Dynamics
+AERO 407: Reentry Aerodynamics
+AERO 409: Flight Test
+AERO 420: Aircraft Dynamics and Control
+AERO 421: Spacecraft Attitude Dynamics and Control
+AERO 425: Aircraft Performance
+AERO 431: Aerospace Structural Analysis II
+AERO 432: Advanced Composite Structures Analysis
+AERO 433: Experimental Stress Analysis
+AERO 434: Aerospace Structural Analysis III
+AERO 435: Aerospace Numerical Analysis
+AERO 443: Aircraft Design I
+AERO 444: Aircraft Design II
+AERO 445: Aircraft Design III
+AERO 446: Introduction to Space Systems
+AERO 447: Spacecraft Design I
+AERO 448: Spacecraft Design II
+AERO 449: Spacecraft Design III
+AERO 450: Introduction to Aerospace Systems Engineering
+AERO 452: Spaceflight Dynamics II
+AERO 460: Aerospace Engineering Professional Preparation
+AERO 463: Senior Project Laboratory I
+AERO 464: Senior Project Laboratory II
+AERO 465: Aerospace Systems Senior Laboratory
+AERO 470: Selected Advanced Topics
+AERO 471: Selected Advanced Laboratory
+AERO 493: Cooperative Education Experience
+AERO 494: Cooperative Education Experience
+AERO 495: Cooperative Education Experience
+AERO 500: Individual Study
+AERO 510: Systems Engineering I
+AERO 511: Systems Engineering II
+AERO 512: Aerospace Vehicle Software Application
+AERO 513: Applications of Unmanned Aircraft Systems
+AERO 515: Continuum Mechanics
+AERO 517: Multidisciplinary Design and Optimization
+AERO 519: Fundamentals of Vehicle Dynamics and Control
+AERO 522: Boundary-Layer Theory
+AERO 523: Turbulence
+AERO 525: Computational Fluid Dynamics
+AERO 526: Spacecraft Thermal/Fluid Control
+AERO 528: Laminar Flow Aircraft Development
+AERO 529: Turbulence and Flow Control
+AERO 531: Airworthiness and Aeroelasticity
+AERO 532: Advanced Aerospace Composite Design
+AERO 533: Finite Elements for Aerospace Structural Analysis
+AERO 534: Aerospace Structural Dynamics Analysis
+AERO 535: Advanced Aerospace Structural Analysis
+AERO 540: Elements of Rocket Propulsion
+AERO 541: Air Breathing Propulsion
+AERO 546: Spacecraft Systems Design
+AERO 551: Global Positioning Satellite Navigation Systems
+AERO 553: Advanced Control Theory
+AERO 557: Advanced Orbital Mechanics
+AERO 560: Advanced Spacecraft Dynamics and Control
+AERO 561: Vehicle Integration and Testing
+AERO 562: Space Operations
+AERO 565: Advanced Topics in Aircraft Design
+AERO 566: Advanced Topics in Spacecraft Design
+AERO 567: Launch Vehicle and Missile Design
+AERO 568: Aerodynamic Research and Development I
+AERO 569: Aerodynamic Research and Development II
+AERO 570: Selected Advanced Topics
+AERO 571: Selected Advanced Topics Laboratory
+AERO 593: Cooperative Education Experience
+AERO 594: Cooperative Education Experience
+AERO 595: Cooperative Education Experience
+AERO 596: Culminating Experience in Space Systems Engineering
+AERO 599: Thesis (Design Project)
+
+
+*** AGB ***
+AGB 101: Introduction to Agribusiness
+AGB 200: Special Problems for Undergraduates
+AGB 202: Introduction to Sales
+AGB 212: Agricultural Economics
+AGB 214: Agribusiness Financial Accounting
+AGB 260: Agribusiness Data Literacy
+AGB 270: Selected Topics
+AGB 301: Food and Fiber Marketing
+AGB 308: Introduction to Agribusiness Finance
+AGB 309: Advanced Sales Techniques
+AGB 310: Agribusiness Credit and Finance
+AGB 311: Intermediate Agribusiness Finance
+AGB 312: Agricultural Policy
+AGB 313: Agriculture Economic Analysis
+AGB 314: Fair and Fair Facility Management
+AGB 318: Global Agricultural Marketing and Trade
+AGB 322: Principles of Agribusiness Management
+AGB 323: Agribusiness Managerial Accounting
+AGB 324: Agricultural Property Management and Sales
+AGB 326: Rural Property Appraisal
+AGB 327: Agribusiness Data Analysis
+AGB 328: Decision Tools for Agribusiness
+AGB 331: Farm Accounting
+AGB 339: Internship in Agribusiness
+AGB 369: Agricultural Personnel Management
+AGB 370: World Food Economy
+AGB 400: Special Problems
+AGB 404: Food Retail Management
+AGB 405: Agribusiness Marketing Research Methods
+AGB 406: Agribusiness Marketing Planning
+AGB 410: Agricultural Lending
+AGB 411: Agribusiness Risk Management
+AGB 412: Advanced Agricultural Policy
+AGB 422: Transportation and Logistics in Global Agribusiness
+AGB 425: Agribusiness Supply Chain Management
+AGB 427: Advanced Agribusiness Data Analysis
+AGB 440: Field Studies in Agribusiness
+AGB 445: Produce Marketing
+AGB 450: Agribusiness Strategy Formulation
+AGB 452: Agricultural Market Structure and Strategy
+AGB 455: Advanced Fair Management Seminar
+AGB 460: Research Methodology in Agribusiness
+AGB 461: Senior Project
+AGB 462: Senior Project - Applied Agribusiness Problems
+AGB 463: Senior Project - Agribusiness Consulting
+AGB 470: Selected Advanced Topics
+AGB 500: Individual Study in Agribusiness
+AGB 514: Agribusiness Managerial Leadership and Communication
+AGB 539: Graduate Internship in Agribusiness
+AGB 543: Agribusiness Policy and Program Analysis
+AGB 554: Food System Marketing
+AGB 555: Technological and Economic Change in Agribusiness
+AGB 563: International Agribusiness Trade and Development
+AGB 570: Selected Topics in Agribusiness
+AGB 571: Selected Advanced Laboratory in Agribusiness
+AGB 599: Thesis in Agribusiness
+
+
+*** AEPS ***
+AEPS 101: Orientation to Horticulture and Crop Science
+AEPS 110: People, Pests and Plagues
+AEPS 120: Principles of Horticulture and Crop Science
+AEPS 123: Landscape Installation and Maintenance
+AEPS 124: Plant Propagation
+AEPS 126: Landscape Construction
+AEPS 127: Horticulture and Landscape Design
+AEPS 132: Pomology I
+AEPS 133: Pomology II
+AEPS 150: Forage Crops
+AEPS 175: Beekeeping
+AEPS 190: California Vegetable Production
+AEPS 200: Special Problems for Undergraduates
+AEPS 202: Fruit Enterprise Project
+AEPS 203: Organic Enterprise
+AEPS 204: Vegetable Enterprise Project
+AEPS 210: Viticultural Practices
+AEPS 212: Environmental Horticulture Enterprise Project I
+AEPS 215: Floral Design I
+AEPS 225: Floral Design II
+AEPS 230: Environmental Horticulture
+AEPS 233: Plant Materials I
+AEPS 234: Plant Materials II
+AEPS 240: Commercial Seed Production
+AEPS 244: Precision Farming
+AEPS 245: Horticultural Production Techniques
+AEPS 250: California Fruit Growing
+AEPS 260: Introduction to Vegetable Science
+AEPS 270: Selected Topics
+AEPS 301: Principles of Landscape Design
+AEPS 304: Introduction to Plant Breeding
+AEPS 312: Environmental Horticulture Enterprise Project II
+AEPS 313: Agricultural Entomology
+AEPS 315: Organic Crop Production
+AEPS 321: Weed Biology and Management
+AEPS 323: Plant Pathology
+AEPS 327: Vertebrate Pest Management
+AEPS 329: Plants, Food, and Biotechnology
+AEPS 331: Advanced Viticulture - Fall
+AEPS 332: Landscape Contracting
+AEPS 333: Greenhouse Vegetable Production
+AEPS 339: Internship in Horticulture and Crop Science
+AEPS 340: Principles of Greenhouse Environment
+AEPS 341: Cut Flower Production
+AEPS 342: Potted Plant Production
+AEPS 343: Turfgrass Management
+AEPS 350: Abiotic Plant Problems
+AEPS 351: Experimental Techniques and Analysis
+AEPS 355: Citrus and Avocado Fruit Production
+AEPS 381: Native Plants for California Landscapes
+AEPS 400: Special Problems for Advanced Undergraduates
+AEPS 402: Fruit Enterprise Project Management
+AEPS 403: Organic Enterprise Project Management
+AEPS 404: Vegetable Enterprise Project Management
+AEPS 406: Advanced Weed Management
+AEPS 410: Crop Physiology
+AEPS 414: Grape Pest Management
+AEPS 421: Postharvest Technology of Horticultural Crops
+AEPS 423: Advanced Vegetable Science
+AEPS 424: Nursery Crop Production
+AEPS 425: Arboriculture
+AEPS 427: Disease and Pest Control Systems for Ornamental Plants
+AEPS 431: Insect Pest Management
+AEPS 432: Specialized Operations for Golf Courses and Athletic Fields
+AEPS 434: Landscape Management
+AEPS 435: Advanced Landscape Design
+AEPS 437: Park and Public Space Management
+AEPS 441: Biological Control for Pest Management
+AEPS 445: Cropping Systems
+AEPS 461: Senior Project I
+AEPS 462: Senior Project II
+AEPS 470: Selected Advanced Topics
+AEPS 471: Selected Advanced Laboratory
+AEPS 500: Individual Study in Horticulture and Crop Science
+AEPS 539: Graduate Internship in Horticulture and Crop Science
+AEPS 570: Selected Topics in Horticulture and Crop Science
+AEPS 571: Selected Topics Laboratory in Horticulture and Crop Science
+AEPS 575: Applied Systematics for Agriculture
+AEPS 581: Graduate Seminar in Crop/Fruit Production
+AEPS 596: Thesis in Crop Science
+AEPS 597: Thesis in Environmental Horticulture Science
+AEPS 598: Thesis in Fruit Science
+AEPS 599: Thesis in Plant Protection Science
+
+
+*** AGC ***
+AGC 102: Orientation to Agricultural Communication
+AGC 200: Special Problems in Agricultural Communication
+AGC 207: Software Applications for Agricultural Publications
+AGC 270: Selected Topics
+AGC 301: New Media Communication Strategies in Agriculture
+AGC 339: Internship in Agricultural Communications
+AGC 400: Advanced Special Problems in Agricultural Communication
+AGC 407: Agricultural Publications
+AGC 426: Presentation Methods in Agricultural Communication
+AGC 452: Current Trends and Issues in Agricultural Communication
+AGC 461: Senior Project I
+AGC 462: Senior Project II
+AGC 470: Selected Advanced Topics
+AGC 471: Selected Advanced Laboratory
+AGC 500: Individual Study In Agricultural Communication
+AGC 539: Graduate Internship in Agricultural Communication
+AGC 570: Selected Topics in Agricultural Communication
+AGC 571: Selected Advanced Laboratory in Agricultural Communication
+AGC 580: Special Problems in Agricultural Communication
+
+
+*** AGED ***
+AGED 102: Introduction to Agricultural Education
+AGED 200: Special Problems in Agricultural Education
+AGED 220: Agricultural Youth Conferences
+AGED 270: Selected Topics
+AGED 303: FFA and Supervised Agricultural Experience
+AGED 339: Internship in Agricultural Education
+AGED 350: Early Field Experience in Agriculture Education
+AGED 400: Advanced Special Problems in Agricultural Education
+AGED 404: Agricultural Leadership
+AGED 410: Computer Applications in Agricultural Education
+AGED 412: Advanced Agricultural Leadership Development Practicum
+AGED 424: Organizing and Teaching Agriculture
+AGED 438: Instructional Processes in Agricultural Education
+AGED 440: Student Teaching in Agricultural Education
+AGED 441: Student Teaching Practicum
+AGED 460: Research Methodology in Agricultural Education and Communication
+AGED 461: Senior Project I
+AGED 462: Senior Project II
+AGED 470: Selected Advanced Topics
+AGED 471: Selected Advanced Laboratory
+AGED 481: Developing Digital Presentations for Instruction in Agricultural Education
+AGED 482: Teaching Resources and Curriculum Design
+AGED 500: Individual Study in Agricultural Education
+AGED 501: Professional Seminar in Agricultural Education
+AGED 513: Field Experience - Agricultural Education
+AGED 520: Program Development in Agricultural Education
+AGED 522: Laboratory Pedagogy in Agricultural Technology
+AGED 523: Laboratory Organization and Management in Agricultural Education
+AGED 524: Instructional Processes in Agricultural Education
+AGED 525: Organizing Instruction for Growing and Selling Horticulture Products
+AGED 526: Curriculum Development in Horticulture Science
+AGED 530: Developing FFA and Supervised Agricultural Experience Programs in Secondary Education
+AGED 536: Teaching Agriculture in Higher Education
+AGED 537: Enhancing Instruction in Agricultural Biology
+AGED 539: Graduate Internship in Agricultural Education
+AGED 540: Instructional Planning in Agriculture
+AGED 570: Selected Topics in Agricultural Education
+AGED 571: Selected Advanced Laboratory in Agricultural Education
+AGED 580: Special Problems in Agricultural Education
+AGED 581: Graduate Seminar in Agricultural Education
+
+
+*** AG ***
+AG 200: Special Problems for Undergraduates
+AG 243: Theory and Practice of Rodeo
+AG 315: Organic Crop Production
+AG 330: Cal Poly Land: Nature, Technology, and Society
+AG 339: Internship in Agriculture
+AG 350: The Global Environment
+AG 360: Holistic Management
+AG 400: Special Problems for Advanced Undergraduates
+AG 450: Applied Holistic Management
+AG 452: Issues Affecting California Agriculture
+AG 485: Cooperative Education Experience
+AG 495: Cooperative Education Experience
+AG 500: Individual Study
+AG 539: Graduate Internship in Agriculture
+AG 581: Graduate Seminar
+AG 585: Cooperative Education Experience
+AG 595: Cooperative Education Experience
+AG 598: Reading and Conference
+AG 599: Thesis
+
+
+*** ASCI ***
+ASCI 101: Introduction to the Animal Sciences
+ASCI 112: Principles of Animal Science
+ASCI 200: Special Problems
+ASCI 203: Animal Parasitology
+ASCI 211: Meat Science
+ASCI 212: Livestock Show Management
+ASCI 214: Equine Management
+ASCI 220: Introductory Animal Nutrition and Feeding
+ASCI 221: Introduction to Beef Production
+ASCI 222: Systems of Swine Production
+ASCI 223: Systems of Small Ruminant Management
+ASCI 224: Equine Science
+ASCI 225: Introduction to Poultry Management
+ASCI 226: Livestock Evaluation
+ASCI 227: Companion Animal Science
+ASCI 228: Equine Evaluation
+ASCI 229: Anatomy and Physiology of Farm Animals
+ASCI 232: General Animal Science Laboratory
+ASCI 260: Preparation of Livestock for Shows and Sales
+ASCI 265: Equine Behavior and Training
+ASCI 270: Selected Topics
+ASCI 290: Animal Production and Management Enterprise
+ASCI 304: Animal Genomics
+ASCI 310: Technical Veterinary Skills
+ASCI 311: Advanced Beef Cattle System Management
+ASCI 312: Production Medicine
+ASCI 315: Equine Biomechanics
+ASCI 320: Physiological Chemistry of Animals
+ASCI 321: Zoonoses and Veterinary Public Health Concerns
+ASCI 324: Advanced Equine Evaluation
+ASCI 325: Egg Production, Processing and Distribution
+ASCI 326: Advanced Livestock Evaluation
+ASCI 329: Principles of Range Management
+ASCI 330: Poultry Meat Production and Processing
+ASCI 333: Equine Reproduction
+ASCI 339: Internship in Animal Science
+ASCI 340: Animal Welfare and Ethics
+ASCI 342: Poultry Business Management
+ASCI 344: Equine and Human Communication
+ASCI 345: Equine Behavior Modification
+ASCI 346: Equine Nutrition
+ASCI 347: Equine Exercise Physiology
+ASCI 350: Nonruminant Nutrition
+ASCI 351: Reproductive Physiology
+ASCI 355: Ruminant Nutrition
+ASCI 360: Holistic Management
+ASCI 363: Undergraduate Seminar
+ASCI 366: Veterinary Pharmacology
+ASCI 370: Rangeland Improvements
+ASCI 384: Processed Meat Products
+ASCI 400: Special Problems for Advanced Undergraduates
+ASCI 403: Applied Biotechnology in Animal Science
+ASCI 405: Domestic Livestock Endocrinology
+ASCI 406: Applied Animal Embryology and Assisted Reproduction
+ASCI 407: Assisted Reproduction Technologies of Gametes and Embryos Laboratory
+ASCI 410: Applied Animal Behavior Science
+ASCI 412: Advanced Livestock Event Planning
+ASCI 413: Advanced Livestock Event Management
+ASCI 415: HACCP for Meat and Poultry Operations
+ASCI 420: Animal Metabolism and Nutrition
+ASCI 425: Meat Industry Study Tour
+ASCI 438: Systemic Animal Physiology
+ASCI 440: Immunology and Diseases of Animals
+ASCI 450: Computer Applications in Animal Science: Spreadsheet Analysis
+ASCI 455: Advanced Equine Reproductive Technologies
+ASCI 460: Rangeland Assessment and Planning
+ASCI 470: Selected Advanced Topics
+ASCI 471: Selected Advanced Laboratory
+ASCI 477: Senior Project - Research Experience in Animal Science
+ASCI 478: Senior Project - Advanced Internship Experience in Animal Science
+ASCI 479: Senior Project - Current Topics in Animal Science
+ASCI 490: Advanced Animal Production and Management Enterprise
+ASCI 500: Individual Study in Animal Science
+ASCI 503: Advanced Molecular Techniques in Animal Science
+ASCI 520: Comparative Animal Nutrition
+ASCI 540: Advanced Immunology and Diseases of Animals
+ASCI 570: Selected Topics in Animal Science
+ASCI 571: Selected Advanced Laboratory
+ASCI 581: Graduate Seminar in Animal Science
+ASCI 593: Regenerative Medicine Internship
+ASCI 594: Applications in Regenerative Medicine
+
+
+*** ANT ***
+ANT 200: Special Problems for Undergraduates
+ANT 201: Cultural Anthropology
+ANT 202: World Prehistory
+ANT 250: Biological Anthropology
+ANT 270: Selected Topics
+ANT 309: Elements of Archaeology
+ANT 310: Archaeological Field Methods
+ANT 311: Archaeological Laboratory Methods
+ANT 312: Introduction to Cultural Resources Management
+ANT 320: California's Native Past
+ANT 325: Pre-Columbian Mesoamerica
+ANT 330: Indigenous South Americans
+ANT 344: Sex, Death, and Human Nature
+ANT 345: Human Behavioral Ecology
+ANT 360: Human Cultural Adaptations
+ANT 393: Action-oriented Ethnography
+ANT 400: Special Problems for Advanced Undergraduates
+ANT 401: Culture and Health
+ANT 402: Nutritional Anthropology
+ANT 415: Native American Cultures
+ANT 425: Meaning, Gender, and Identity in Anthropological Theory
+ANT 455: Anthropology-Geography Research Design and Methods
+ANT 460: Queer Anthropology
+ANT 461: Senior Project I
+ANT 462: Senior Project II
+ANT 464: Professional Preparation for Anthropologists/Geographers
+ANT 465: Internship
+ANT 470: Selected Advanced Topics
+
+
+*** ARCE ***
+ARCE 106: Introduction to Building Systems
+ARCE 211: Structures I
+ARCE 212: Structures II
+ARCE 223: Mechanics of Structural Members
+ARCE 224: Mechanics of Structural Members Laboratory
+ARCE 226: Introduction to Structural Systems
+ARCE 227: Structures III
+ARCE 257: Structural CAD for Building Design
+ARCE 260: History of Structures
+ARCE 270: Selected Topics
+ARCE 302: Structural Analysis
+ARCE 303: Steel Design I
+ARCE 304: Timber Design
+ARCE 305: Masonry Design
+ARCE 306: Matrix Analysis of Structures
+ARCE 315: Introduction to Structural Design
+ARCE 316: Structural Integration in Architecture
+ARCE 352: Structural Computing Analysis
+ARCE 353: Matrix Structural Computing Analysis
+ARCE 354: Numerical Analysis Laboratory
+ARCE 371: Structural Systems Laboratory
+ARCE 372: Steel Structures Design Laboratory
+ARCE 400: Special Problems for Advanced Undergraduates
+ARCE 403: Advanced Steel Structures Laboratory
+ARCE 410: Integrated Building Envelopes
+ARCE 412: Dynamics of Framed Structures
+ARCE 415: Interdisciplinary Capstone Project
+ARCE 421: Soil Mechanics
+ARCE 422: Foundation Design
+ARCE 423: Advanced Foundation Design
+ARCE 444: Reinforced Concrete Design
+ARCE 445: Prestressed Concrete Design Laboratory
+ARCE 446: Advanced Structural Systems Laboratory
+ARCE 447: Advanced Reinforced Concrete Laboratory
+ARCE 448: Seismic Rehabilitation
+ARCE 449: Cold Formed Steel Design Laboratory
+ARCE 451: Timber and Masonry Structures Design and Constructability Laboratory
+ARCE 452: Concrete Structures Design and Constructability Laboratory
+ARCE 453: Interdisciplinary Senior Project
+ARCE 460: Collaborative Design Laboratory
+ARCE 470: Selected Advanced Topics
+ARCE 471: Selected Advanced Laboratory
+ARCE 473: Advanced Timber and Masonry Structures Laboratory
+ARCE 475: Civil Infrastructure and Building Systems
+ARCE 476: Architectural Engineering Building Systems
+ARCE 483: Seismic Analysis and Design
+ARCE 485: Cooperative Education Experience
+ARCE 495: Cooperative Education Experience
+ARCE 501: Advanced Structural Mechanics
+ARCE 502: Nonlinear Structural Behavior I
+ARCE 503: Nonlinear Structural Behavior II
+ARCE 504: Finite Element Method for Building Structures
+ARCE 511: Structural Systems Behavior
+ARCE 521: Architectural Structures
+ARCE 522: Structural Systems
+ARCE 570: Selected Advanced Topics
+ARCE 571: Selected Advanced Laboratory
+ARCE 598: Structural Engineering Design Project
+
+
+*** ARCH ***
+ARCH 101: Survey of Architectural Education and Practice
+ARCH 106: Materials of Construction
+ARCH 131: Design and Visual Communication 1.1
+ARCH 132: Design and Visual Communication 1.2
+ARCH 133: Design and Visual Communication 1.3
+ARCH 204: Architectural Theory
+ARCH 207: Architectural Technology Fundamentals 2.3
+ARCH 217: History of World Architecture: Prehistory - Middle Ages
+ARCH 218: History of World Architecture: Middle Ages - 18th Century
+ARCH 219: History of World Architecture: 18th Century - Present
+ARCH 241: Architectural Technology Fundamentals 2.1
+ARCH 242: Architectural Technology Fundamentals 2.2
+ARCH 251: Architectural Design 2.1
+ARCH 252: Architectural Design 2.2
+ARCH 253: Architectural Design 2.3
+ARCH 270: Selected Topics
+ARCH 302: Theories of Architectural Design
+ARCH 307: Architectural Systems Integration 3.2
+ARCH 313: Advanced Delineation
+ARCH 320: Topics in Architectural History
+ARCH 326: Native American Architecture and Place
+ARCH 341: Architectural Systems Integration 3.1
+ARCH 342: Architectural Systems Integration 3.3
+ARCH 351: Architectural Design 3.1
+ARCH 352: Architectural Design 3.2
+ARCH 353: Architectural Design 3.3
+ARCH 363: Off-Campus Orientation Seminar
+ARCH 400: Special Problems for Advanced Undergraduates
+ARCH 420: Seminar in Architectural History, Theory and Criticism
+ARCH 443: Issues in Contemporary Professional Practice
+ARCH 445: Urban Design in Architecture
+ARCH 451: Architectural Design 4.1
+ARCH 452: Architectural Design 4.2
+ARCH 453: Architectural Design 4.3
+ARCH 460: Computer Graphics Applications III
+ARCH 461: Advanced Computer-Aided Fabrication in Architecture
+ARCH 462: Topics in Architectural Practice
+ARCH 464: Computer Applications in Design
+ARCH 465: Design Related Media
+ARCH 466: Topics in Architectural History and Theory
+ARCH 467: Undergraduate Research
+ARCH 468: Advanced Environmental Building Systems
+ARCH 469: Topics in Design Methods
+ARCH 470: Selected Advanced Topics
+ARCH 471: Selected Advanced Laboratory
+ARCH 472: Housing Design Concepts
+ARCH 473: Material Innovation Lab
+ARCH 480: Special Studies in Architecture
+ARCH 481: Senior Architectural Design Project
+ARCH 485: Internship/Cooperative Education Experience
+ARCH 492: Senior Design Thesis
+ARCH 510: Environmental Design Methods
+ARCH 532: Research Methods in Architecture
+ARCH 551: Architectural Design
+ARCH 561: Advanced Design
+ARCH 570: Selected Advanced Topics
+ARCH 580: Seminar in Theory of Architecture
+ARCH 598: Master's Design Project
+ARCH 599: Master's Thesis
+
+
+*** ART ***
+ART 101: The Fundamentals of Drawing
+ART 102: Art and Design Foundation Studies I
+ART 103: Art and Design Foundation Studies II
+ART 104: Art and Design Foundation Studies III
+ART 111: Introduction to Art
+ART 112: Survey of Western Art
+ART 122: Basic Digital Photography
+ART 148: Beginning Sculpture
+ART 182: Foundation in Digital Art I
+ART 183: Foundation in Digital Art II
+ART 200: Special Problems for Undergraduates
+ART 201: Intermediate Drawing
+ART 203: Art Theory and Practice
+ART 209: Beginning Painting
+ART 211: Art Hist - Ancient to Renaissance
+ART 212: Art History - Renaissance through Baroque Eras
+ART 213: Art History- Modern Art, 1900-1945
+ART 222: Black and White Photography
+ART 224: Introduction to Artificial Lighting for Photography
+ART 227: Portrait Photography
+ART 237: Graphic Design I
+ART 238: Typography I
+ART 245: Ceramics I
+ART 260: Critique, Discourse and Practice
+ART 270: Selected Topics
+ART 288: Interaction Design I
+ART 302: Figure Drawing
+ART 309: Intermediate Painting
+ART 310: Art History - American Art
+ART 311: Art History - Nineteenth Century Art
+ART 313: Design History
+ART 314: History of Photography
+ART 315: Art History - Art Since 1945
+ART 316: Women as Subject and Object in Art History
+ART 317: Asian Art Survey
+ART 318: Asian Art Topics: National, Religious, and Intellectual Movements
+ART 324: Photographic Expression
+ART 325: Advanced Camera and Lighting Techniques
+ART 329: Editorial Photography
+ART 330: Book Arts
+ART 334: Illustration I: Techniques and Tools
+ART 337: Graphic Design II
+ART 338: Typography II
+ART 345: Ceramics II
+ART 348: Intermediate Sculpture
+ART 350: Computing for Interactive Arts Capstone I
+ART 353: Intermedia / Art
+ART 366: Junior Studio Art Practice
+ART 370: Michelangelo
+ART 371: Topics in Renaissance Art
+ART 373: New Media Art History
+ART 383: Digital Video I
+ART 384: Digital 3D Modeling and Design
+ART 388: Interaction Design II
+ART 400: Special Problems for Advanced Undergraduates
+ART 402: Advanced Figure 2D
+ART 409: Advanced 2-D
+ART 427: Advertising Photography
+ART 432: Advertising Design
+ART 434: Illustration II
+ART 437: Graphic Design III
+ART 438: Typography III
+ART 439: Type in Motion
+ART 448: Advanced Topics in Sculpture
+ART 450: Computing for Interactive Arts Capstone II
+ART 463: Senior Portfolio Project
+ART 466: Senior Studio Art Practice
+ART 470: Selected Advanced Topics
+ART 471: Selected Advanced Laboratory
+ART 474: Collaborative Studio: Rendering, Animation and Modeling
+ART 483: Digital Video II
+ART 484: Animation, Video, and Interactive Design
+ART 488: Interaction Design III
+ART 489: Advanced Interactive Media Art
+ART 494: Cooperative Education Experience
+ART 495: Cooperative Education Experience
+
+
+*** ASTR ***
+ASTR 101: Introduction to the Solar System
+ASTR 102: Introduction to Stars and Galaxies
+ASTR 200: Special Problems for Undergraduates
+ASTR 270: Selected Topics
+ASTR 301: Planetary Systems
+ASTR 302: Stars and Galaxies
+ASTR 324: Longitude, Navigation, and Timekeeping
+ASTR 326: Cosmology
+ASTR 400: Special Problems for Advanced Undergraduates
+ASTR 404: Research Experience for Advanced Undergraduates
+ASTR 444: Observational Astronomy
+ASTR 470: Selected Advanced Topics
+ASTR 471: Selected Advanced Laboratory
+
+
+*** BIO ***
+BIO 111: General Biology
+BIO 112: Environmental Biology and Conservation
+BIO 114: Plant Diversity and Ecology
+BIO 123: Biology of Sex
+BIO 160: Diversity and History of Life
+BIO 161: Introduction to Cell and Molecular Biology
+BIO 162: Introduction to Organismal Form and Function
+BIO 200: Special Problems for Undergraduates
+BIO 202: Orientation to Biotechnology
+BIO 211: Biology of Plants and Animals
+BIO 213: Life Science for Engineers
+BIO 227: Wildlife Conservation Biology
+BIO 231: Human Anatomy and Physiology I
+BIO 232: Human Anatomy and Physiology II
+BIO 253: Health Professions Shadowing
+BIO 263: Introductory Ecology and Evolution
+BIO 270: Selected Topics
+BIO 302: Human Genetics
+BIO 303: Survey of Genetics
+BIO 305: Biology of Cancer
+BIO 308: Genetic Engineering Technology
+BIO 321: Mammalogy
+BIO 322: Ichthyology
+BIO 323: Ornithology
+BIO 324: Herpetology
+BIO 327: Wildlife Ecology
+BIO 329: Vertebrate Field Zoology
+BIO 330: Extended Field Biology Activity
+BIO 335: General Entomology
+BIO 336: Invertebrate Zoology
+BIO 351: Principles of Genetics
+BIO 361: Principles of Animal Physiology
+BIO 400: Special Problems for Advanced Undergraduates
+BIO 401: Principles of Conservation Biology
+BIO 405: Developmental Biology
+BIO 406: Advanced Anatomy and Physiology: Neuroscience
+BIO 407: Advanced Anatomy and Physiology: Endocrinology
+BIO 408: Advanced Anatomy and Physiology: Cardiorespiratory and Renal
+BIO 409: Advanced Anatomy and Physiology: Muscle and Locomotion
+BIO 410: Functional Histology
+BIO 414: Evolution
+BIO 415: Biogeography
+BIO 419: Analytical Methods in Ecology
+BIO 421: Wetlands
+BIO 424: Organizing and Teaching Science
+BIO 425: Clinical Experience in Teaching Science Seminar
+BIO 426: Immunology
+BIO 427: Wildlife Management
+BIO 428: Hematology
+BIO 429: Parasitology
+BIO 434: Environmental Physiology
+BIO 435: Plant Physiology
+BIO 441: Bioinformatics Applications
+BIO 442: Behavioral Ecology
+BIO 444: Population Ecology
+BIO 445: Community Ecology
+BIO 446: Ecosystem Ecology
+BIO 450: Undergraduate Laboratory Assistantship
+BIO 452: Cell Biology
+BIO 461: Senior Project - Research Proposal
+BIO 462: Senior Project - Research
+BIO 463: Honors Research
+BIO 470: Selected Advanced Topics
+BIO 471: Selected Advanced Laboratory
+BIO 472: Current Topics in Biological Research
+BIO 475: Molecular Biology Laboratory
+BIO 476: Gene Expression Laboratory
+BIO 485: Cooperative Education Experience
+BIO 495: Cooperative Education Experience
+BIO 500: Individual Study
+BIO 501: Molecular &amp; Cellular Biology
+BIO 502: Biology of Organisms
+BIO 503: Population Biology
+BIO 509: Communicating Biology to General Audiences
+BIO 524: Developmental Biology Seminar
+BIO 534: Principles of Stem Cell Biology
+BIO 537: Advanced Behavioral Ecology
+BIO 561: Proposal Writing for Biological Research
+BIO 570: Selected Topics in Biology
+BIO 571: Selected Advanced Laboratory
+BIO 574: Teaching Strategies for College Biology Laboratories
+BIO 575: College Biology Teaching Practicum
+BIO 585: Cooperative Education Experience
+BIO 590: Seminar in Biology
+BIO 591: Trends in Biology
+BIO 593: Regenerative Medicine Internship
+BIO 594: Applications in Regenerative Medicine
+BIO 595: Cooperative Education Experience
+BIO 599: Thesis
+
+
+*** BMED ***
+BMED 101: Introduction to the Biomedical Engineering Major
+BMED 102: Introduction to Biomedical Engineering Analysis
+BMED 212: Introduction to Biomedical Engineering Design
+BMED 213: Bioengineering Fundamentals
+BMED 270: Selected Topics
+BMED 310: Biomedical Engineering Measurement and Analysis
+BMED 330: Intermediate Biomedical Design
+BMED 355: Electrical Engineering Concepts for Biomedical Engineering
+BMED 400: Special Problems for Advanced Undergraduates
+BMED 401: Biomedical Entrepreneurship
+BMED 404: Applied Finite Element Analysis
+BMED 410: Biomechanics
+BMED 420: Principles of Biomaterials Design
+BMED 425: Biomedical Engineering Transport
+BMED 430: Biomedical Modeling and Simulation
+BMED 432: Micro/Nano System Design
+BMED 434: Micro/Nano Fabrication
+BMED 435: Microfabrication Laboratory
+BMED 436: Characterization of Micro/Nano Scale Structures
+BMED 440: Bioelectronics and Instrumentation
+BMED 445: Biopotential Instrumentation
+BMED 450: Contemporary Issues in Biomedical Engineering
+BMED 455: Biomedical Engineering Design I
+BMED 456: Biomedical Engineering Design II: Senior Project
+BMED 459: Senior Thesis
+BMED 460: Engineering Physiology
+BMED 470: Selected Advanced Topics
+BMED 471: Selected Advanced Laboratory
+BMED 481: Senior Project Design Laboratory I
+BMED 482: Senior Project Design Laboratory II
+BMED 483: Senior Project Design Laboratory III
+BMED 495: Cooperative Education Experience
+BMED 500: Individual Study
+BMED 510: Principles of Tissue Engineering
+BMED 512: Biomedical Engineering Horizons
+BMED 515: Introduction to Biomedical Imaging
+BMED 520: Introduction to Biomedical Engineering
+BMED 525: Skeletal Tissue Mechanics
+BMED 530: Biomaterials
+BMED 535: Bioseparations
+BMED 541: Microcirculation
+BMED 542: Microcirculation Laboratory
+BMED 550: Current and Evolving Topics in Biomedical Engineering
+BMED 555: Neural Systems Simulation and Modeling
+BMED 560: Cell Transplantation and Biotherapeutics
+BMED 561: Cell Transplantation and Biotherapeutics Laboratory
+BMED 563: Biomedical Engineering Graduate Seminar
+BMED 570: Selected Advanced Topics
+BMED 571: Selected Advanced Laboratory
+BMED 591: Thesis Project Design Laboratory I
+BMED 592: Thesis Project Design Laboratory II
+BMED 593: Regenerative Medicine Internship
+BMED 594: Applications in Regenerative Medicine
+BMED 599: Design Project (Thesis)
+
+
+*** BRAE ***
+BRAE 121: Agricultural Mechanics
+BRAE 128: Careers in Bioresource and Agricultural Engineering
+BRAE 129: Laboratory Skills and Safety
+BRAE 133: Introduction to Engineering Design Graphics
+BRAE 141: Agricultural Machinery Safety
+BRAE 142: Agricultural Power and Machinery Management
+BRAE 151: CAD for Agricultural Engineering
+BRAE 152: 3-D Solids Modeling
+BRAE 200: Special Problems for Undergraduates
+BRAE 203: Agricultural Systems Analysis
+BRAE 213: Bioengineering Fundamentals
+BRAE 216: Fundamentals of Electricity
+BRAE 232: Agricultural Structures Planning
+BRAE 234: Introduction to Mechanical Systems in Agriculture
+BRAE 236: Principles of Irrigation
+BRAE 237: Introduction to Engineering Surveying
+BRAE 239: Engineering Surveying
+BRAE 240: Agricultural Engineering Laboratory
+BRAE 244: Precision Farming
+BRAE 247: Forest Surveying
+BRAE 270: Selected Topics
+BRAE 301: Hydraulic and Mechanical Power Systems
+BRAE 302: Servo Hydraulics
+BRAE 312: Hydraulics
+BRAE 320: Principles of Bioresource Engineering
+BRAE 321: Agricultural Safety
+BRAE 324: Principles of Agricultural Electrification
+BRAE 328: Measurements and Computer Interfacing
+BRAE 331: Irrigation Theory
+BRAE 335: Internal Combustion Engines
+BRAE 337: Landscape Irrigation
+BRAE 339: Internship in Bioresource and Agricultural Engineering
+BRAE 340: Irrigation Water Management
+BRAE 342: Agricultural Materials
+BRAE 343: Mechanical Systems Analysis
+BRAE 344: Fabrication Systems
+BRAE 345: Aerial Photogrammetry and Remote Sensing
+BRAE 348: Energy for a Sustainable Society
+BRAE 400: Special Problems
+BRAE 403: Agricultural Systems Engineering
+BRAE 405: Chemigation
+BRAE 414: Irrigation Engineering
+BRAE 418: Agricultural Systems Management I
+BRAE 419: Agricultural Systems Management II
+BRAE 421: Equipment Engineering
+BRAE 422: Equipment Engineering
+BRAE 425: Computer Controls for Agriculture
+BRAE 428: Agricultural Robotics and Automation
+BRAE 432: Agricultural Buildings
+BRAE 433: Agricultural Structures Design
+BRAE 434: Automotive Engineering for a Sustainable Future
+BRAE 435: Drainage
+BRAE 438: Drip/Micro Irrigation
+BRAE 440: Agricultural Irrigation Systems
+BRAE 447: Advanced Surveying with GIS Applications
+BRAE 448: Bioconversion
+BRAE 450: Solar Photovoltaic System Engineering
+BRAE 460: Senior Project Organization
+BRAE 461: Senior Project I
+BRAE 462: Senior Project II
+BRAE 470: Selected Advanced Topics
+BRAE 471: Selected Advanced Laboratory
+BRAE 481: Advanced Agricultural Mechanics
+BRAE 485: Cooperative Education Experience in BioResource and Agricultural Engineering
+BRAE 495: Cooperative Education Experience in BioResource and Agricultural Engineering
+BRAE 500: Individual Study
+BRAE 532: Water Wells and Pumps
+BRAE 533: Irrigation Project Design
+BRAE 570: Selected Advanced Topics in BioResource and Agricultural Engineering
+BRAE 571: Selected Advanced Laboratory in Bioresources and Agricultural Engineering
+BRAE 599: Thesis in BioResource and Agricultural Engineering
+
+
+*** BOT ***
+BOT 121: General Botany
+BOT 311: Plants, People and Civilization
+BOT 313: Taxonomy of Vascular Plants
+BOT 323: Plant Pathology
+BOT 326: Plant Ecology
+BOT 329: Plants, Food, and Biotechnology
+BOT 433: Field Botany: California Plant Diversity
+
+
+*** BUS ***
+BUS 100: Student Orientation and College Success
+BUS 200: Special Problems for Undergraduates
+BUS 205: Personal Finance
+BUS 206: Business Professionalism and Career Readiness I
+BUS 207: Legal Responsibilities of Business
+BUS 212: Financial Accounting for Nonbusiness Majors
+BUS 214: Financial Accounting
+BUS 215: Managerial Accounting
+BUS 220: Business Basics for Entrepreneurs
+BUS 270: Selected Topics
+BUS 301: Global Financial Institutions and Markets
+BUS 302: International and Cross Cultural Management
+BUS 303: Introduction to International Business
+BUS 304: International Supply Chains
+BUS 306: Business Professionalism and Career Readiness II
+BUS 310: Introduction to Entrepreneurship
+BUS 311: Managing Technology in the International Legal Environment
+BUS 313: Customer Development
+BUS 319: Accounting Information Systems
+BUS 320: Federal Income Taxation for Individuals
+BUS 321: Intermediate Accounting I
+BUS 322: Intermediate Accounting II
+BUS 323: Intermediate Accounting III
+BUS 342: Fundamentals of Corporate Finance
+BUS 346: Principles of Marketing
+BUS 382: Organizations, People, and Technology
+BUS 384: Human Resources Management
+BUS 386: Employee Training and Development
+BUS 387: Organizational Behavior
+BUS 389: Introduction to Business Negotiation for Entrepreneurs
+BUS 391: Information Systems
+BUS 392: Business Application Development
+BUS 393: Database Systems in Business
+BUS 394: System Analysis and Design
+BUS 395: Systems Design and Implementation
+BUS 400: Special Problems for Advanced Undergraduates
+BUS 401: General Management and Strategy
+BUS 402: International Business Management
+BUS 403: Advanced Seminar in International Management
+BUS 404: Governmental and Social Influences on Business
+BUS 406: Managing Mergers, Acquisitions and Divestitures
+BUS 407: Managing People in Global Markets
+BUS 409: Law of Real Property
+BUS 410: The Legal Environment of International Business
+BUS 412: Advanced Managerial Accounting
+BUS 416: Volunteer Income Tax Assistance - Senior Project
+BUS 417: Taxation of Corporations and Partnerships
+BUS 418: Listening to the Customer
+BUS 419: Strategic Marketing Measurement
+BUS 421: Marketing Analytics and Business Intelligence
+BUS 422: Accounting for Government and Not-For-Profit Entities
+BUS 424: Accounting Ethics
+BUS 425: Auditing
+BUS 430: Internship/Cooperative Education
+BUS 431: Security Analysis and Portfolio Management
+BUS 432: Insurance Planning and Risk Management
+BUS 433: International Finance
+BUS 434: Real Estate Finance
+BUS 435: Real Estate Investment
+BUS 436: Entrepreneurial Finance
+BUS 437: Retirement and Estate Planning
+BUS 438: Advanced Corporate Finance
+BUS 439: Fixed Income Securities Market
+BUS 441: Computer Applications in Finance
+BUS 442: Introduction to Futures and Options
+BUS 443: Case Studies in Real Estate Finance
+BUS 444: Financial Engineering and Risk Management
+BUS 445: Ethics and Behavior Finance
+BUS 446: International Marketing
+BUS 448: The Finance of Mergers and Acquisitions
+BUS 451: New Product Development and Launch
+BUS 452: Product Management
+BUS 453: Digital and New Media Marketing
+BUS 454: Marketing Projects
+BUS 455: Marketing Strategy
+BUS 459: Social Media's Role in Integrated Marketing Communications
+BUS 461: Senior Project I
+BUS 462: Senior Project II
+BUS 463: Senior Project: Low Income Taxpayer Clinic
+BUS 464: Applied Senior Project Seminar
+BUS 466: Senior Project: Sales Development Program
+BUS 470: Selected Advanced Topics
+BUS 471: Compensation
+BUS 473: Employment Law
+BUS 474: Independent Study in Accounting
+BUS 475: Staffing
+BUS 477: Managing Change and Development
+BUS 488: Planning and Managing New Ventures
+BUS 489: Negotiation
+BUS 491: Decision Support Systems
+BUS 495: Software Testing
+BUS 496: Electronic Commerce
+BUS 498: Directed Topics in Information Systems
+BUS 499: Data Communications and Networking
+
+
+*** CHEM ***
+CHEM 101: Introduction to the Chemical Sciences
+CHEM 106: Introductory Chemistry
+CHEM 110: World of Chemistry
+CHEM 111: Survey of Chemistry
+CHEM 124: General Chemistry for Physical Science and Engineering I
+CHEM 125: General Chemistry for Physical Science and Engineering II
+CHEM 126: General Chemistry for Physical Science and Engineering III
+CHEM 127: General Chemistry for Agriculture and Life Science I
+CHEM 128: General Chemistry for Agriculture and Life Science II
+CHEM 129: General Chemistry for Agriculture and Life Science III
+CHEM 200: Special Problems for Undergraduates
+CHEM 201: Undergraduate Research
+CHEM 202: Orientation to Biotechnology
+CHEM 203: Undergraduate Seminar I
+CHEM 212: Introduction to Organic Chemistry
+CHEM 216: Organic Chemistry I
+CHEM 217: Organic Chemistry II
+CHEM 218: Organic Chemistry III
+CHEM 220: Organic Chemistry Laboratory For Life Sciences II
+CHEM 221: Organic Chemistry Laboratory II
+CHEM 222: Introduction to Computational Chemistry
+CHEM 223: Organic Chemistry Laboratory for Life Sciences III
+CHEM 231: Quantitative Analysis
+CHEM 252: Laboratory Glassblowing
+CHEM 270: Selected Topics
+CHEM 302: Marine Chemistry
+CHEM 303: Undergraduate Seminar II
+CHEM 308: Genetic Engineering Technology
+CHEM 312: Survey of Organic Chemistry
+CHEM 313: Survey of Biochemistry and Biotechnology
+CHEM 324: Organic Chemistry Laboratory III
+CHEM 331: Quantitative Analysis
+CHEM 341: Environmental Chemistry: Water Pollution
+CHEM 349: Chemical and Biological Warfare
+CHEM 350: Chemical Safety
+CHEM 351: Physical Chemistry I
+CHEM 352: Physical Chemistry II
+CHEM 353: Physical Chemistry III
+CHEM 354: Physical Chemistry Laboratory
+CHEM 357: Physical Chemistry III Lab
+CHEM 371: Biochemical Principles
+CHEM 372: Metabolism
+CHEM 373: Molecular Biology
+CHEM 377: Chemistry of Drugs and Poisons
+CHEM 400: Special Problems for Advanced Undergraduates
+CHEM 401: Advanced Undergraduate Research
+CHEM 403: Undergraduate Seminar III: Senior Project
+CHEM 405: Advanced Physical Chemistry
+CHEM 414: Advanced Organic Chemistry - Mechanisms
+CHEM 418: Neurochemistry
+CHEM 419: Bioorganic Chemistry
+CHEM 420: Advanced Organic Chemistry - Synthesis
+CHEM 439: Instrumental Analysis
+CHEM 441: Bioinformatics Applications
+CHEM 444: Polymers &amp; Coatings I
+CHEM 445: Polymers &amp; Coatings II
+CHEM 446: Surface Chemistry of Materials
+CHEM 447: Polymers and Coatings Laboratory I
+CHEM 448: Polymers and Coatings Laboratory II
+CHEM 449: Polymers and Coatings Internship
+CHEM 450: Polymers and Coatings III
+CHEM 451: Polymers and Coatings Laboratory III
+CHEM 454: Functional Polymeric Materials
+CHEM 458: Instrumental Organic Qualitative Analysis
+CHEM 459: Undergraduate Seminar
+CHEM 461: Senior Project Report
+CHEM 463: Honors Research
+CHEM 465: College Teaching Practicum
+CHEM 466: Learning Assistant Seminar
+CHEM 470: Selected Advanced Topics
+CHEM 471: Selected Advanced Laboratory
+CHEM 474: Protein Techniques Laboratory
+CHEM 475: Molecular Biology Laboratory
+CHEM 476: Gene Expression Laboratory
+CHEM 477: Biochemical Pharmacology
+CHEM 481: Inorganic Chemistry
+CHEM 484: Inorganic Chemistry Laboratory
+CHEM 485: Cooperative Education Experience
+CHEM 495: Cooperative Education Experience
+CHEM 500: Special Problems for Graduate Students
+CHEM 528: Nutritional Biochemistry
+CHEM 544: Polymer Physical Chemistry and Analysis
+CHEM 545: Polymer Synthesis and Mechanisms
+CHEM 547: Polymer Characterization and Analysis Laboratory
+CHEM 548: Polymer Synthesis Laboratory
+CHEM 550: Coatings Formulation Principles
+CHEM 551: Coatings Formulation Laboratory
+CHEM 570: Selected Advanced Topics
+CHEM 571: Selected Advanced Laboratory
+CHEM 590: Graduate Seminar in Polymers and Coatings
+CHEM 598: Graduate Project
+CHEM 599: Graduate Thesis
+
+
+*** CD ***
+CD 102: Orientation to the Child Development Major
+CD 131: Observing and Interacting with Children
+CD 200: Special Problems
+CD 207: Children's Learning and Development in Educational Settings
+CD 230: Preschool Laboratory
+CD 254: Family Psychology
+CD 256: Developmental Psychology
+CD 270: Selected Topics
+CD 304: Infant and Toddler Development
+CD 305: Early and Middle Childhood Development
+CD 306: Adolescence
+CD 329: Research Methods in Child Development
+CD 330: Supervised Fieldwork Internship
+CD 333: Research Internship
+CD 350: Developmental Issues in Education
+CD 351: Learning in Out-of-School Time
+CD 400: Special Problems for Advanced Undergraduates
+CD 401: Perspectives on Child and Adolescent Development
+CD 413: Children, Adolescents &amp; Technology
+CD 417: Interpersonal Relationships in Childhood and Adolescence
+CD 424: Children's Learning and Development in Diverse Families and Communities
+CD 430: Advanced Supervised Fieldwork Internship
+CD 431: Assessing Children's Development and Environments
+CD 433: Advanced Research Internship
+CD 456: Behavioral Disorders in Childhood
+CD 460: Child Abuse and Neglect
+CD 461: Senior Project Seminar
+CD 462: Senior Project
+CD 470: Selected Advanced Topics
+
+
+*** CHIN ***
+CHIN 101: Elementary Mandarin Chinese I
+CHIN 102: Elementary Mandarin Chinese II
+CHIN 103: Elementary Mandarin Chinese III
+CHIN 201: Intermediate Mandarin Chinese I
+CHIN 202: Intermediate Mandarin Chinese II
+CHIN 203: Intermediate Mandarin Chinese III
+
+
+*** CRP ***
+CRP 101: Introduction to the Profession of City and Regional Planning
+CRP 201: Basic Graphic Skills
+CRP 202: Urban Design Studio I
+CRP 203: Urban Design Studio II
+CRP 204: Theories and Methods of Urban Design
+CRP 211: Cities: Form, Culture and Evolution
+CRP 212: Introduction to Urban Planning
+CRP 213: Population, Housing and Economic Applications
+CRP 214: Land Use and Transportation Studies
+CRP 215: Planning for and with Multiple Publics
+CRP 216: Computer Applications for Planning
+CRP 270: Selected Topics
+CRP 304: Intergroup Dialogues
+CRP 314: Planning Theory
+CRP 315: Fiscal and Project Feasibility
+CRP 325: Reflections on Biking, Walking and the City
+CRP 334: Cities in a Global World
+CRP 336: Introduction to Environmental Planning
+CRP 338: Digital Cities
+CRP 339: Disaster-Resistant Sustainable Communities
+CRP 341: Urban Design Studio III
+CRP 342: Environmental Planning Methods
+CRP 351: Introduction to Emergency Management in California
+CRP 400: Special Problems for Advanced Undergraduates
+CRP 401: Disaster Recovery
+CRP 402: Contemporary Urban Design
+CRP 404: Environmental Law
+CRP 408: Water Resource Law and Policy
+CRP 409: Planning Internship
+CRP 410: Community Planning Laboratory I
+CRP 411: Community Planning Lab II
+CRP 412: Plan Implementation
+CRP 420: Land Use Law
+CRP 426: Planning Healthy Communities
+CRP 428: International Planning and Development
+CRP 430: Professional Planning Practice
+CRP 435: Transportation Theory
+CRP 436: Collaborative Planning
+CRP 438: Pollution Prevention and Control
+CRP 440: Climate Action Planning
+CRP 442: Housing and Planning
+CRP 445: Planning and Urban Ecology
+CRP 446: Development Review and Entitlement
+CRP 448: Principles of Urban Design
+CRP 452: Community Design Methods
+CRP 456: Web Technologies for Planning
+CRP 457: GIS Applications in Planning
+CRP 458: Local Hazard Mitigation Planning and Design
+CRP 461: Senior Project I
+CRP 462: Senior Project II
+CRP 463: Senior Project Professional Practice
+CRP 470: Selected Advanced Topics
+CRP 471: Selected Advanced Laboratory
+CRP 472: Planning Colloquium
+CRP 483: Special Studies in City and Regional Planning
+CRP 500: Individual Study
+CRP 501: Foundations of Cities and Planning
+CRP 504: Sustainable Communities
+CRP 509: Professional Development
+CRP 510: Planning Theory
+CRP 512: Introduction to Visual Communication and GIS
+CRP 513: Planning Research and Analysis
+CRP 516: Demographic and Analytic Tools
+CRP 518: Policy Development
+CRP 520: Feasibility Studies
+CRP 525: Plan Implementation
+CRP 530: Planning Agency Management
+CRP 535: Land Use and Planning Law
+CRP 545: Principles of Environmental Planning
+CRP 552: Community and Regional Planning Studio I
+CRP 553: Project Planning and Design Studio
+CRP 554: Community and Regional Planning Studio II
+CRP 556: Community and Regional Planning Studio III
+CRP 570: Selected Topics in Planning
+CRP 571: Selected Advanced Laboratory
+CRP 596: Professional Project
+CRP 599: Thesis
+
+
+*** CE ***
+CE 111: Introduction to Civil Engineering
+CE 112: Design Principles in Civil Engineering
+CE 113: Computer Aided Drafting in Civil Engineering
+CE 200: Special Problems
+CE 204: Mechanics of Materials I
+CE 207: Mechanics of Materials II
+CE 251: Programming Applications in Engineering
+CE 259: Civil Engineering Materials
+CE 270: Selected Topics
+CE 321: Fundamentals of Transportation Engineering
+CE 322: Fundamentals of Transportation Engineering Laboratory
+CE 336: Water Resources Engineering
+CE 337: Hydraulics Laboratory
+CE 352: Structural Engineering
+CE 355: Reinforced Concrete Design
+CE 356: Structural Steel Design
+CE 371: Construction Management and Project Planning
+CE 381: Geotechnical Engineering
+CE 382: Geotechnical Engineering Laboratory
+CE 400: Special Problems
+CE 401: Advanced Mechanics of Materials
+CE 404: Applied Finite Element Analysis
+CE 405: Concrete Materials
+CE 406: Structural Analysis
+CE 407: Structural Dynamics
+CE 413: Advanced Civil Computer-Aided Site Design
+CE 421: Traffic Engineering
+CE 422: Highway Geometrics and Design
+CE 423: Intelligent Transportation Systems
+CE 424: Public Transportation
+CE 425: Introduction to Railway Engineering
+CE 431: Coastal Hydraulics I
+CE 432: Coastal Hydraulics II
+CE 433: Open Channel Hydraulics
+CE 434: Groundwater Hydraulics and Hydrology
+CE 435: Engineering Hydrology
+CE 440: Hydraulic Systems Engineering
+CE 454: Structural Design
+CE 455: Design of Timber Structures
+CE 456: Seismic Principles for Civil and Environmental Engineering
+CE 457: Bridge Engineering
+CE 458: Fiber Reinforced Polymer (FRP) Design
+CE 459: FRP Strengthening of Reinforced Concrete Structures
+CE 465: Civil Engineering Professional Practice
+CE 466: Senior Design Project I
+CE 467: Senior Design Project II
+CE 468: Community Engineering Senior Design Project I
+CE 469: Community Engineering Senior Design Project II
+CE 470: Selected Advanced Topics
+CE 471: Selected Advanced Laboratory
+CE 474: Environmental Compliance and Permitting
+CE 475: Civil Infrastructure and Building Systems
+CE 481: Analysis and Design of Shallow Foundations
+CE 486: Introduction to Geological Engineering
+CE 487: Design of Foundations and Slopes in Rock
+CE 488: Engineering Risk Analysis
+CE 493: Cooperative Education Experience
+CE 494: Cooperative Education Experience
+CE 495: Cooperative Education Experience
+CE 500: Individual Study
+CE 501: Advanced Matrix Analysis of Structures I
+CE 504: Finite Element Analysis
+CE 511: Continuum Mechanics and Elasticity
+CE 513: Inelastic Stress Analysis
+CE 521: Highway Pavement Designs
+CE 523: Transportation Systems Planning
+CE 524: Pavement Performance and Management Systems
+CE 525: Airport Planning and Design
+CE 526: Transportation Safety
+CE 527: Sustainable Mobility
+CE 528: Transportation Economics and Analysis
+CE 529: Modeling and Simulation in Transportation
+CE 533: Advanced Water Resources Engineering
+CE 535: Water Resources Systems Planning and Analysis
+CE 536: Computer Applications in Water Resources with Geographic Info Systems (GIS)
+CE 537: Groundwater Contamination
+CE 538: Urban Water Systems
+CE 539: Environmental Hydraulics
+CE 552: Analysis and Seismic Design of Reinforced Concrete
+CE 553: Ductile Design of Steel Structures
+CE 555: Advanced Civil Engineering Materials Laboratory
+CE 556: Advanced Fiber Reinforced Polymer (FRP) Strengthening of Reinforced Concrete Structures
+CE 557: Seismic Analysis and Design for Civil Engineers
+CE 558: Advanced Fiber Reinforced Polymer (FRP) Design
+CE 559: Prestressed Concrete Design
+CE 570: Selected Advanced Topics
+CE 571: Selected Advanced Laboratory
+CE 581: Advanced Geotechnical Engineering
+CE 583: Geotechnical Earthquake Engineering
+CE 584: Lateral Support Systems
+CE 585: Slope Stability Analysis
+CE 586: Analysis and Design of Deep Foundations
+CE 587: Geoenvironmental Engineering
+CE 588: Ground Improvement
+CE 589: Geosynthetics Engineering
+CE 591: Graduate Seminar I
+CE 592: Graduate Seminar II
+CE 593: Cooperative Education Experience
+CE 594: Cooperative Education Experience
+CE 595: Cooperative Education Experience
+CE 596: Comprehensive Examination
+CE 599: Design Project (Thesis)
+
+
+*** COMS ***
+COMS 101: Public Speaking
+COMS 102: Principles of Oral Communication
+COMS 126: Argument and Advocacy
+COMS 145: Reasoning, Argumentation, and Writing
+COMS 201: Advanced Public Speaking
+COMS 208: Performance of Literature
+COMS 212: Interpersonal Communication
+COMS 213: Organizational Communication
+COMS 217: Small Group Communication
+COMS 218: Media, Self and Society
+COMS 226: Applied Argumentation
+COMS 250: Forensic Activity
+COMS 270: Selected Topics
+COMS 301: Business and Professional Communication
+COMS 308: Group Performance of Literature
+COMS 311: Communication Theory
+COMS 312: Communication Research Methods
+COMS 315: Intergroup Communication
+COMS 316: Intercultural Communication
+COMS 317: Technology and Human Communication
+COMS 319: Critical Cultural Studies and Communication
+COMS 322: Persuasion
+COMS 330: Classical Rhetorical Theory
+COMS 331: Contemporary Rhetorical Theory
+COMS 332: Rhetorical Criticism
+COMS 350: Advanced Forensic Activity
+COMS 385: Media Criticism
+COMS 386: Communication, Media, and Politics
+COMS 390: Environmental Communication
+COMS 395: Science Communication
+COMS 400: Special Problems for Advanced Undergraduates
+COMS 413: Advanced Organizational Communication
+COMS 418: Health Communication
+COMS 419: Media Effects
+COMS 420: Nonverbal Communication
+COMS 421: Gender and Communication
+COMS 422: Rhetorics of Science, Technology, and Medicine
+COMS 428: Family Communication
+COMS 435: American Political Rhetoric
+COMS 450: Internship: Communication Studies
+COMS 460: Undergraduate Seminar
+COMS 461: Senior Project
+COMS 470: Selected Advanced Topics
+COMS 485: Cooperative Education Experience
+
+
+*** CPE ***
+CPE 100: Computer Engineering Orientation
+CPE 101: Fundamentals of Computer Science
+CPE 105: Fundamentals of Computer Science I Supplemental Instruction
+CPE 108: Accelerated Introduction to Computer Science
+CPE 123: Introduction to Computing
+CPE 133: Digital Design
+CPE 200: Special Problems for Undergraduates
+CPE 202: Data Structures
+CPE 203: Project-Based Object-Oriented Programming and Design
+CPE 233: Computer Design and Assembly Language Programming
+CPE 290: Selected Topics
+CPE 315: Computer Architecture
+CPE 321: Introduction to Computer Security
+CPE 328: Discrete Time Signals and Systems
+CPE 329: Programmable Logic and Microprocessor-Based Systems Design
+CPE 336: Microprocessor System Design
+CPE 350: Capstone I
+CPE 357: Systems Programming
+CPE 368: Signals and Systems Laboratory
+CPE 400: Special Problems for Undergraduates
+CPE 416: Autonomous Mobile Robotics
+CPE 419: Applied Parallel Computing
+CPE 422: Network and Web Security
+CPE 428: Computer Vision
+CPE 431: Programming Languages II
+CPE 432: Digital Control Systems
+CPE 439: Introduction to Real-Time Operating Systems
+CPE 441: Computer-Aided Design of VLSI Devices
+CPE 450: Capstone II
+CPE 453: Introduction to Operating Systems
+CPE 454: Implementation of Operating Systems
+CPE 458: Current Topics in Computer Systems
+CPE 461: Senior Project I
+CPE 462: Senior Project II
+CPE 464: Introduction to Computer Networks
+CPE 465: Advanced Computer Networks
+CPE 469: Distributed Systems
+CPE 470: Selected Advanced Topics
+CPE 471: Introduction to Computer Graphics
+CPE 472: Digital Control Systems Laboratory
+CPE 476: Real-Time 3D Computer Graphics Software
+CPE 479: Selected Advanced Laboratory
+CPE 482: Advanced Topics in Systems for Computer Engineering
+CPE 485: Autonomous Robot Navigation
+CPE 488: Microelectronics and Electronics Packaging
+CPE 493: Cooperative Education Experience
+CPE 494: Cooperative Education Experience
+CPE 495: Cooperative Education Experience
+CPE 515: Computer Architecture
+CPE 521: Computer Systems
+CPE 522: Advanced Real-Time Operating Systems Design
+CPE 523: Digital Systems Design
+CPE 564: Computer Networks: Research Topics
+CPE 569: Distributed Computing
+
+
+*** CSC ***
+CSC 101: Fundamentals of Computer Science
+CSC 105: Fundamentals of Computer Science I Supplemental Instruction
+CSC 108: Accelerated Introduction to Computer Science
+CSC 123: Introduction to Computing
+CSC 171: Introduction to Interactive Entertainment
+CSC 200: Special Problems for Undergraduates
+CSC 202: Data Structures
+CSC 203: Project-Based Object-Oriented Programming and Design
+CSC 209: Problem Solving with Computers
+CSC 225: Introduction to Computer Organization
+CSC 231: Programming for Engineering Students
+CSC 232: Computer Programming for Scientists and Engineers
+CSC 234: C and Unix
+CSC 235: Fundamentals of Computer Science for Scientists and Engineers I
+CSC 236: Fundamentals of Computer Science for Scientists and Engineers II
+CSC 290: Selected Topics
+CSC 300: Professional Responsibilities
+CSC 301: Personal Software Process
+CSC 302: Computers and Society
+CSC 303: Teaching Computer Science
+CSC 305: Individual Software Design and Development
+CSC 307: Introduction to Software Engineering
+CSC 308: Software Engineering I
+CSC 309: Software Engineering II
+CSC 310: Computers for Poets
+CSC 311: Computational Art
+CSC 320: Practical Computer Security for Everyone
+CSC 321: Introduction to Computer Security
+CSC 323: Cryptography Engineering
+CSC 325: Introduction to Privacy: Policy and Technology
+CSC 344: Music Programming
+CSC 348: Discrete Structures
+CSC 349: Design and  Analysis of Algorithms
+CSC 350: Computing for Interactive Arts Capstone I
+CSC 357: Systems Programming
+CSC 365: Introduction to Database Systems
+CSC 366: Database Modeling, Design and Implementation
+CSC 369: Introduction to Distributed Computing
+CSC 371: Game Design
+CSC 378: Interactive Entertainment Engineering
+CSC 400: Special Problems
+CSC 402: Software Requirements Engineering
+CSC 405: Software Construction
+CSC 406: Software Deployment
+CSC 409: Current Topics in Software Engineering
+CSC 410: Software Evaluation
+CSC 422: Network and Web Security
+CSC 424: Software Security
+CSC 429: Current Topics in Computer Security
+CSC 430: Programming Languages I
+CSC 431: Programming Languages II
+CSC 435: Introduction to Object Oriented Design Using Graphical User Interfaces
+CSC 436: Mobile Application Development
+CSC 437: Dynamic Web Development
+CSC 445: Theory of Computation I
+CSC 448: Bioinformatics Algorithms
+CSC 450: Computing for Interactive Arts Capstone II
+CSC 453: Introduction to Operating Systems
+CSC 454: Implementation of Operating Systems
+CSC 458: Current Topics in Computer Systems
+CSC 466: Knowledge Discovery from Data
+CSC 468: Database Management Systems Implementation
+CSC 469: Distributed Systems
+CSC 471: Introduction to Computer Graphics
+CSC 473: Advanced Rendering Techniques
+CSC 474: Computer Animation
+CSC 476: Real-Time 3D Computer Graphics Software
+CSC 477: Scientific and Information Visualization
+CSC 478: Current Topics in Computer Graphics
+CSC 480: Artificial Intelligence
+CSC 481: Knowledge Based Systems
+CSC 483: Current Topics in Human-Computer Interaction
+CSC 484: User-Centered Interface Design and Development
+CSC 486: Human-Computer Interaction Theory and Design
+CSC 489: Current Topics in Artificial Intelligence
+CSC 490: Selected Advanced Topics
+CSC 491: Senior Project I
+CSC 492: Senior Project II
+CSC 493: Cooperative Education Experience
+CSC 494: Cooperative Education Experience
+CSC 495: Cooperative Education Experience
+CSC 496: Selected Advanced Laboratory
+CSC 500: Directed Study
+CSC 508: Software Engineering I
+CSC 509: Software Engineering II
+CSC 515: Computer Architecture
+CSC 521: Computer Security
+CSC 530: Languages and Translators
+CSC 540: Theory of Computation II
+CSC 550: Operating Systems
+CSC 560: Database Systems
+CSC 564: Computer Networks: Research Topics
+CSC 566: Topics in Advanced Data Mining
+CSC 569: Distributed Computing
+CSC 570: Current Topics in Computer Science
+CSC 572: Computer Graphics
+CSC 580: Artificial Intelligence
+CSC 581: Computer Support for Knowledge Management
+CSC 582: Introduction to Natural Language Processing
+CSC 590: Thesis Seminar
+CSC 593: Cooperative Education Experience
+CSC 594: Cooperative Education Experience
+CSC 595: Cooperative Education Experience
+CSC 596: Thesis I
+CSC 597: Thesis II
+CSC 599: Thesis III
+
+
+*** CM ***
+CM 102: Introduction to Construction Management
+CM 113: Construction Materials and Assemblies
+CM 114: Construction Materials and Assemblies Lab
+CM 115: Fundamentals of Construction Management
+CM 212: Construction Management Principles
+CM 214: Residential Construction Management
+CM 221: Concrete and Formwork Technology
+CM 232: Evaluation of Cost Alternatives
+CM 239: Construction Surveying
+CM 270: Selected Topics
+CM 280: Building Information Modeling
+CM 310: Construction Means and Methods
+CM 313: Commercial Construction Management
+CM 314: Heavy Civil Construction Management
+CM 317: Sustainability and the Built Environment
+CM 334: Construction Law
+CM 335: Construction Accounting
+CM 371: Construction Management and Project Planning
+CM 400: Special Problems for Advanced Undergraduates
+CM 411: Specialty Contracting Construction Management
+CM 413: Jobsite Construction Management
+CM 415: Integrated Project Delivery
+CM 420: Service / Experiential Learning
+CM 421: Emerging Trends
+CM 422: Professional Preparation
+CM 423: Construction Materials / Assemblies
+CM 424: Construction Technology
+CM 425: Sustainability and Environment
+CM 426: International Construction Studies
+CM 432: Design-Build Project Management
+CM 433: Integrated Project Delivery
+CM 443: Management of the Construction Firm
+CM 450: Integrated Project, Design and Program Management
+CM 460: Senior Project Methodology
+CM 461: Senior Project I
+CM 462: Senior Project II
+CM 463: Senior Project: Professional Practice for Constructors
+CM 470: Selected Advanced Topics
+CM 471: Selected Advanced Laboratory
+CM 475: Real Property Development Principles
+CM 480: Preconstruction Integration and Planning
+CM 485: Cooperative Education Experience
+CM 495: Cooperative Education Experience
+CM 510: Principles of Integrated Facility Management
+CM 511: Facility Risk Analysis and Project Management
+CM 512: Facility Maintenance and Operation Strategies
+CM 513: Facility Systems Assessment and Integration
+CM 514: Sustainable Facility Management
+CM 515: Environmental Health and Safety Management for Facilities
+CM 521: Construction Cost Estimating and Work Procurement
+CM 522: Construction Planning, Scheduling, and Impact Analysis
+CM 523: Construction Contracts and Law
+CM 524: Construction Project Management and Control
+CM 525: Construction Workforce, Productivity, and Safety
+CM 570: Selected Advanced Topics in Construction Management
+CM 571: Selected Advanced Laboratory
+
+
+*** DSCI ***
+DSCI 100: Enterprise Project
+DSCI 102: Dairy Operations and Safety
+DSCI 200: Special Problems for Undergraduates
+DSCI 202: Dairy Promotion and Marketing
+DSCI 230: General Dairy Husbandry
+DSCI 231: General Dairy Manufacturing
+DSCI 233: Milk Processing and Inspection
+DSCI 241: Dairy Cattle Selection, Breeds, Fitting and Showing
+DSCI 270: Selected Topics
+DSCI 301: Dairy Cattle Nutrition
+DSCI 321: Lactation Physiology
+DSCI 330: Artificial Insemination and Embryo Biotechnology
+DSCI 333: Dairy Animal Health, Safety and Applied Technology
+DSCI 339: Internship in Dairy Science
+DSCI 340: Dairy Waste Management and Resource Recovery
+DSCI 400: Special Problems for Advanced Undergraduates
+DSCI 401: Physical and Chemical Properties of Dairy Products
+DSCI 402: Quality Assurance and Control of Dairy Products
+DSCI 410: Advanced Dairy Nutrition
+DSCI 412: Dairy Farm Consultation
+DSCI 422: Breeding and Genetics of Dairy Cattle
+DSCI 432: Advanced Dairy Herd Management
+DSCI 433: Dairy Plant Management and Equipment
+DSCI 434: Cheese and Fermented Dairy Foods
+DSCI 435: Concentration and Fractionation Technology
+DSCI 444: Dairy Microbiology
+DSCI 461: Senior Project
+DSCI 470: Selected Advanced Topics
+DSCI 471: Selected Advanced Laboratory
+DSCI 500: Individual Study in Dairy Science
+DSCI 501: Dairy Chemistry
+DSCI 502: Dairy Chemistry Laboratory
+DSCI 510: Dairy Foods: Issues and Practices
+DSCI 520: Dairy Processing and Manufacturing I
+DSCI 521: Dairy Processing and Manufacturing II
+DSCI 524: Dairy Processing and Manufacturing III
+DSCI 535: Dairy Foods Ingredient Functionality
+DSCI 539: Graduate Internship in Dairy Science
+DSCI 540: Graduate Dairy Microbiology
+DSCI 541: Quality Assurance, Quality Control and Food Safety
+DSCI 560: Recent Developments in Dairy Science and Technology
+DSCI 565: Industrial Plant Considerations for Sustainable Operation
+DSCI 570: Selected Topics in Dairy Science
+DSCI 571: Selected Advanced Laboratory in Dairy Science
+DSCI 581: Graduate Seminar in Dairy Science
+DSCI 582: Dairy Processing and Plant Management
+DSCI 585: Cooperative Education Experience in Dairy Science
+DSCI 599: Thesis in Dairy Science
+
+
+*** DANC ***
+DANC 130: Pilates and Conditioning Fundamentals
+DANC 131: Beginning Ballet
+DANC 132: Beginning Modern Dance
+DANC 133: Beginning Jazz Dance
+DANC 134: Beginning Ballroom Dance
+DANC 135: International Folk Dance
+DANC 210: Active Wellness
+DANC 221: Dance Appreciation
+DANC 231: Intermediate Ballet
+DANC 232: Intermediate Modern Dance
+DANC 233: Intermediate Jazz Dance
+DANC 234: Intermediate Ballroom Dance
+DANC 270: Selected Topics
+DANC 280: Body Awareness and Expression
+DANC 321: Cultural Influence on Dance in America
+DANC 331: Advanced Ballet and Repertory
+DANC 332: Contemporary Dance Repertory
+DANC 340: Dance Composition
+DANC 341: Dance Concert Practicum
+DANC 345: Choreography/Workshop in Dance Concert Preparation
+DANC 346: Dance Production
+DANC 381: Dance Teaching Methods for Dance Minors
+DANC 400: Special Problems
+DANC 430: Advanced Selected Techniques
+DANC 470: Selected Advanced Topics
+DANC 471: Selected Advanced Laboratory
+
+
+*** DATA ***
+DATA 301: Introduction to Data Science
+DATA 401: Data Science
+DATA 451: Data Science Capstone I
+DATA 452: Data Science Capstone II
+
+
+*** ESE ***
+ESE 90: Early Start Program: English
+
+
+*** ESM ***
+ESM 90: Early Start Program: Mathematics
+
+
+*** ERSC ***
+ERSC 140: Careers in Natural Resources Management and Environmental Sciences
+ERSC 144: Introduction to Earth Science
+ERSC 200: Special Problems for Undergraduates
+ERSC 223: Rocks and Minerals
+ERSC 250: Physical Geography
+ERSC 270: Selected Topics
+ERSC 301: Earth Sciences/Soils Science Practicum
+ERSC 303: Soil Erosion and Water Conservation
+ERSC 323: Geomorphology
+ERSC 325: Climate and Humanity
+ERSC 333: Human Impact on the Earth
+ERSC 335: Soil, Water, and Civilization
+ERSC 339: Internship in Environmental Earth and Soil Sciences
+ERSC 363: Undergraduate Seminar
+ERSC 400: Special Problems for Advanced Undergraduates
+ERSC 401: Field-Geology Methods
+ERSC 402: Geologic Mapping
+ERSC 414: Global and Regional Climatology
+ERSC 415: Applied Meteorology and Climatology
+ERSC 470: Selected Advanced Topics
+ERSC 471: Selected Advanced Laboratory
+ERSC 476: Senior Project - Advanced Internship Experience in Environmental Science/Management
+ERSC 477: Senior Project - Research Experience in Environmental Science
+ERSC 478: Senior Project - Current Topics in Environmental Science/Management
+ERSC 479: Senior Project - Independent Study
+ERSC 544: Earth Sciences for Educators
+ERSC 570: Selected Topics in Earth Science
+ERSC 571: Selected Advanced Laboratory
+
+
+*** ECON ***
+ECON 200: Special Problems for Undergraduates
+ECON 201: Survey of Economics
+ECON 221: Microeconomics
+ECON 222: Macroeconomics
+ECON 270: Selected Topics
+ECON 303: Economics of Poverty, Discrimination and Immigration
+ECON 304: Comparative Economic Systems
+ECON 311: Intermediate Microeconomics I
+ECON 312: Intermediate Microeconomics II
+ECON 313: Intermediate Macroeconomics
+ECON 325: Economics of Development and Growth
+ECON 330: International Trade Theory
+ECON 337: Money, Banking and Credit
+ECON 339: Econometrics
+ECON 345: Environmental and Natural Resource Economics
+ECON 395: Programming for Economics and Analytics
+ECON 400: Special Problems
+ECON 403: Industrial Organization
+ECON 404: International Trade Theory
+ECON 405: International Monetary Economics
+ECON 406: Applied Forecasting
+ECON 408: Mathematical Economics
+ECON 409: Probability Models for Economic Decisions
+ECON 410: Public Finance and Cost-Benefit Analysis
+ECON 413: Labor Economics
+ECON 417: Development of Economic Analysis
+ECON 424: Monetary Economics
+ECON 431: Environmental Economics
+ECON 432: Economics of Energy and Resources
+ECON 434: Urban Economics
+ECON 435: Economics of Land and Water
+ECON 440: Advanced Econometrics
+ECON 460: Research Methodology in Applied Economics
+ECON 461: Senior Project I
+ECON 462: Senior Project II
+ECON 464: Applied Senior Project
+ECON 470: Selected Advanced Topics
+
+
+*** EDUC ***
+EDUC 125: First Year Seminar
+EDUC 207: Children's Learning and Development in Educational Settings
+EDUC 270: Selected Topics
+EDUC 300: Historical, Philosophical, and Social Foundations of Public Education
+EDUC 400: Special Problems for Undergraduates
+EDUC 401: Field Experience Seminar
+EDUC 405: Social, Historical and Cultural Influences on Latino/a Students in Education
+EDUC 410: Social, Historical and Ethical Perspectives on Teaching and Learning
+EDUC 412: Access to Learning in a Pluralistic Society
+EDUC 414: Curriculum and Inquiry in Public Schools
+EDUC 416: Literacy, Language, and Culture in Content Area Classrooms
+EDUC 417: Literacy, Language, and Culture in the Content Area Classroom Fieldwork
+EDUC 418: Culturally Responsive Teaching in Diverse Classrooms
+EDUC 419: Culturally Responsive Fieldwork in Diverse Classrooms
+EDUC 423: Bilingual Literacy
+EDUC 427: Theories, Methods, and Assessment of First and Second Language Acquisition in Schools
+EDUC 428: Foundations of K-8 Literacy Teaching and Learning in Schools with Diverse Populations
+EDUC 429: Learning to Teach K-8 Literacy in Schools with Diverse Populations
+EDUC 431: Learning to Teach K-8 Social Studies with Diverse Populations
+EDUC 433: Foundations of Bilingual Education
+EDUC 435: Learning to Teach K-8 Mathematics with Diverse Populations
+EDUC 436: Learning to Teach K-8 Science with Diverse Populations
+EDUC 438: Multiple Subject Clinical Practice I
+EDUC 439: Multiple Subject Clinical Practice Seminar I
+EDUC 440: Educating Individuals with Exceptional Needs
+EDUC 442: Elementary Field Experience in General and/or Special Education
+EDUC 447: Secondary Field Experience in General and/or Special Education
+EDUC 449: Special Education Student Teaching
+EDUC 450: Teaching Performance Assessment Seminar
+EDUC 451: Special Education Student Teaching Seminar
+EDUC 454: Multiple Subject Clinical Practice II
+EDUC 455: Multiple Subject Clinical Practice Seminar II
+EDUC 456: Multiple Subject Clinical Practice III
+EDUC 457: Multiple Subject Clinical Practice Seminar III
+EDUC 460: Clinical Practice I
+EDUC 469: Clinical Practice II
+EDUC 470: Selected Advanced Topics
+EDUC 471: Selected Advanced Laboratory
+EDUC 479: Clinical Practice III
+EDUC 480: Computer Based Curriculum
+EDUC 500: Individual Study
+EDUC 502: Advancing Pedagogical Practices with Technology
+EDUC 510: Education Finance and Resource Allocation
+EDUC 511: Educational Law and Governance
+EDUC 512: Education Organization and Management
+EDUC 513: Education Planning and Decision Making
+EDUC 515: Educational Program Management and  Evaluation
+EDUC 516: Educational Personnel Supervision and Evaluation
+EDUC 518: Administrative Services Fieldwork
+EDUC 519: Professional e-Portfolios for Educational Leaders
+EDUC 521: Literacy Across the Curriculum
+EDUC 522: Advanced Classroom Pedagogy
+EDUC 523: Integrative Approaches to Curriculum
+EDUC 528: Advanced Classroom Pedagogy in English Language Arts
+EDUC 532: Advanced Field Experiences in Education
+EDUC 535: Advanced Classroom Pedagogy in Elementary Mathematics Education
+EDUC 536: Advanced Classroom Pedagogy in Elementary Science Education
+EDUC 542: Administration of Special Programs and Services
+EDUC 544: Advanced Collaboration and Consultation for Teachers of Students with Special Needs
+EDUC 545: Characteristics and Instruction of Pupils with Mild/Moderate Disabilities
+EDUC 546: Reading and Language Arts Instruction in Special Education
+EDUC 550: Assessment Strategies for Special Education
+EDUC 552: Support and Transition Strategies in Special Education
+EDUC 553: Current Issues, Emerging Research and Practices in Special Education
+EDUC 554: Behavior Disorders and Positive Behavior Support Strategies
+EDUC 555: Introduction to the Counseling Profession
+EDUC 556: Multicultural Counseling
+EDUC 557: Career Counseling
+EDUC 560: Counseling Theories
+EDUC 561: Group Counseling
+EDUC 562: Student Development - Higher Education
+EDUC 564: Legal and Ethical Issues in Counseling
+EDUC 565: Counseling Measurement and Assessment
+EDUC 566: Leadership and Consultation in Counseling
+EDUC 568: Individual Counseling Techniques
+EDUC 570: Selected Advanced Topics
+EDUC 573: Field Experience, Counseling
+EDUC 586: Introduction to Inquiry in Education
+EDUC 587: Educational Foundations and Current Issues
+EDUC 588: Education, Culture, and Learning
+EDUC 589: Educational Research Methods
+EDUC 590: Research Application in Education
+EDUC 598: Action Research Project in Education
+EDUC 599: Thesis in Education
+
+
+*** EE ***
+EE 111: Introduction to Electrical Engineering
+EE 112: Electric Circuit Analysis I
+EE 133: Digital Design
+EE 151: Introduction to Electrical Engineering Laboratory
+EE 200: Special Problems
+EE 201: Electric Circuit Theory
+EE 211: Electric Circuit Analysis II
+EE 212: Electric Circuit Analysis III
+EE 228: Continuous-Time Signals and Systems
+EE 233: Computer Design and Assembly Language Programming
+EE 241: Electric Circuit Analysis Laboratory II
+EE 242: Electric Circuit Analysis Laboratory III
+EE 251: Electric Circuits Laboratory
+EE 255: Energy Conversion Electromagnetics
+EE 270: Selected Topics
+EE 295: Energy Conversion Electromagnetics Laboratory
+EE 302: Classical Control Systems
+EE 306: Semiconductor Device Electronics
+EE 307: Digital Electronics and Integrated Circuits
+EE 308: Analog Electronics and Integrated Circuits
+EE 314: Introduction to Communication Systems
+EE 321: Electronics
+EE 322: Microcontrollers for Everyone
+EE 328: Discrete Time Signals and Systems
+EE 329: Programmable Logic and Microprocessor-Based Systems Design
+EE 335: Electromagnetic Fields and Transmission
+EE 336: Microprocessor System Design
+EE 342: Classical Control Systems Laboratory
+EE 346: Semiconductor Device Electronics Laboratory
+EE 347: Digital Electronics and Integrated Circuits Laboratory
+EE 348: Analog Electronics and Integrated Circuits Laboratory
+EE 361: Electronics Laboratory
+EE 368: Signals and Systems Laboratory
+EE 375: Electromagnetic Fields and Transmission Laboratory
+EE 400: Special Problems
+EE 402: Electromagnetic Waves
+EE 403: Fiber Optic Communication
+EE 405: High Frequency Amplifier Design
+EE 406: Power Systems Analysis I
+EE 407: Power Systems Analysis II
+EE 409: Electronic Design
+EE 410: Power Electronics I
+EE 411: Power Electronics II
+EE 412: Advanced Analog Circuits
+EE 413: Advanced Electronic Design
+EE 415: Communication Systems Design
+EE 416: Digital Communication Systems
+EE 417: Alternating Current Machines
+EE 418: Photonic Engineering
+EE 419: Digital Signal Processing
+EE 420: Sustainable Electric Energy Conversion
+EE 422: Polymer Electronics Laboratory
+EE 423: Micro/Nano Fabrication
+EE 424: Introduction to Remote Sensing
+EE 425: Analog Filter Design
+EE 428: Computer Vision
+EE 431: Computer-Aided Design of VLSI Devices
+EE 432: Digital Control Systems
+EE 433: Introduction to Magnetic Design
+EE 434: Automotive Engineering for a Sustainable Future
+EE 439: Introduction to Real-Time Operating Systems
+EE 440: Wireless Communications
+EE 443: Fiber Optics Laboratory
+EE 444: Power Systems Laboratory
+EE 445: High Frequency Amplifier Design Laboratory
+EE 449: Electronic Design Laboratory
+EE 452: Advanced Analog Circuits Laboratory
+EE 455: Analog Filter Design Laboratory
+EE 456: Digital Communication Systems Laboratory
+EE 458: Photonic Engineering Laboratory
+EE 459: Digital Signal Processing Laboratory
+EE 460: Senior Project Preparation
+EE 461: Senior Project I
+EE 462: Senior Project II
+EE 463: Senior Project Design Laboratory I
+EE 464: Senior Project Design Laboratory II
+EE 470: Selected Advanced Topics
+EE 471: Selected Advanced Laboratory
+EE 472: Digital Control Systems Laboratory
+EE 480: Wireless Communications Laboratory
+EE 494: Cooperative Education Experience
+EE 495: Cooperative Education Experience
+EE 500: Individual Study
+EE 502: Microwave Engineering
+EE 504: Software Defined Radio
+EE 509: Computational Intelligence
+EE 511: Electric Machines Theory
+EE 513: Control Systems Theory
+EE 514: Advanced Topics in Automatic Control
+EE 515: Discrete Time Filters
+EE 516: Pattern Recognition
+EE 518: Power System Protection
+EE 519: Advanced Analysis of Power Systems
+EE 520: Solar-Photovoltaic Systems Design
+EE 521: Computer Systems
+EE 522: Advanced Real-Time Operating Systems Design
+EE 523: Digital Systems Design
+EE 524: Solid State Electronics
+EE 525: Stochastic Processes
+EE 526: Advanced Digital Communications
+EE 527: Advanced Topics in Power Electronics
+EE 528: Digital Image Processing
+EE 529: Microwave Device Electronics
+EE 530: Fourier Optics
+EE 533: Antennas
+EE 541: Advanced Microwave Laboratory
+EE 544: Solid-state Electronics and VLSI Laboratory
+EE 563: Graduate Seminar
+EE 570: Selected Advanced Topics
+EE 571: Selected Advanced Laboratory
+EE 594: Cooperative Education Experience
+EE 595: Cooperative Education Experience
+EE 599: Design Project (Thesis)
+
+
+*** ENGR ***
+ENGR 101: Engineering Student Success
+ENGR 110: Introduction to Engineering
+ENGR 234: Introduction to Design Thinking
+ENGR 270: Selected Topics
+ENGR 301: Engineering Professional Success
+ENGR 302: Transportation and Manufacturing in the Twenty-First Century
+ENGR 310: Introduction to Entrepreneurship
+ENGR 322: The Learn By Doing Lab Teaching Practicum
+ENGR 334: Needfinding in New Product Design
+ENGR 350: The Global Environment
+ENGR 400: Special Problems for Advanced Undergraduates
+ENGR 440: Engineering as a Profession
+ENGR 451: Special Topics in Bioengineering
+ENGR 459: Interdisciplinary Senior Design Project I
+ENGR 460: Interdisciplinary Senior Design Project II
+ENGR 461: Interdisciplinary Senior Design Project III
+ENGR 462: Senior Project
+ENGR 463: Interdisciplinary Entrepreneurial Senior Design Project I
+ENGR 464: Interdisciplinary Entrepreneurial Senior Design Project II
+ENGR 465: Interdisciplinary Entrepreneurial Senior Design Project III
+ENGR 470: Selected Advanced Topics
+ENGR 471: Selected Advanced Laboratory
+ENGR 481: Senior Project Design Laboratory I
+ENGR 482: Senior Project Design Laboratory II
+ENGR 483: Senior Project Design Laboratory III
+ENGR 493: Cooperative Education Experience
+ENGR 494: Cooperative Education Experience
+ENGR 495: Cooperative Education Experience
+ENGR 500: Individual Study
+ENGR 551: Advanced Topics in Bioengineering
+ENGR 570: Selected Advanced Topics
+ENGR 571: Selected Advanced Laboratory
+ENGR 581: Biochemical Engineering
+ENGR 593: Cooperative Education Experience
+ENGR 594: Cooperative Education Experience
+ENGR 595: Cooperative Education Experience
+ENGR 596: Industry Sponsored Project Experience
+ENGR 599: Design Project (Thesis)
+
+
+*** ENGL ***
+ENGL 92: Basic Writing
+ENGL 93: Essay Writing for English as a Second Language Students
+ENGL 96: Writing and Rhetoric Tutorial
+ENGL 98: Graduation Writing Requirement Preparation
+ENGL 133: Writing &amp; Rhetoric for English as a Second Language Students
+ENGL 134: Writing and Rhetoric
+ENGL 145: Reasoning, Argumentation, and Writing
+ENGL 148: Reasoning, Argumentation and Professional Writing
+ENGL 149: Technical Writing for Engineers
+ENGL 150: Writing Tutorial
+ENGL 202: Introduction to Literary Studies
+ENGL 203: Core I: 450-1485
+ENGL 204: Core II: 1485-1660
+ENGL 205: Core III: 1660-1789
+ENGL 221: Introduction to Technical and Professional Communication
+ENGL 230: Masterworks of British Literature through the Eighteenth Century
+ENGL 231: Masterworks of British Literature from the Late 18th Century to the Present
+ENGL 241: American Literature: Beginnings to 1865
+ENGL 242: American Literature: 1830 to the Present
+ENGL 251: Great Books I: Introduction to Classical Literature
+ENGL 252: Great Books II: Medieval to Enlightenment Literature
+ENGL 253: Great Books III: Romanticism to Modernism Literature
+ENGL 260: Children's Literature
+ENGL 270: Selected Topics
+ENGL 290: Introduction to Linguistics
+ENGL 302: Writing: Advanced Composition
+ENGL 303: Core IV: 1789-1861
+ENGL 304: Core V: 1861-1914
+ENGL 305: Core VI: 1914 - Present
+ENGL 310: Corporate Communication
+ENGL 317: Technical Editing
+ENGL 319: Information Design and Production
+ENGL 330: British Literature in the Age of Belief: to 1485
+ENGL 331: British Literature in the Age of Discovery: 1485-1660
+ENGL 332: British Literature in the Age of Enlightenment: 1660-1798
+ENGL 333: British Literature in the Age of Romanticism: 1798-1832
+ENGL 334: British Literature in the Age of Industrialism: 1832-1914
+ENGL 335: British Literature in the Age of Modernism: 1914-Present
+ENGL 339: Introduction to Shakespeare
+ENGL 340: The Literary Sources of the American Character: 1600-1865
+ENGL 341: The Literary Sources of the American Character: 1865-1914
+ENGL 342: The Literary Sources of the American Character: 1914-1956
+ENGL 343: Multiple Voices of Contemporary American Literature
+ENGL 345: Women Writers of the Twentieth Century
+ENGL 346: Ethnic American Literature
+ENGL 347: African American Literature
+ENGL 349: Gender in Twentieth Century Literature
+ENGL 350: The Modern Novel
+ENGL 351: Modern Poetry
+ENGL 352: Modern Drama
+ENGL 354: The Bible as Literature and in Literature and the Arts
+ENGL 360: Literature for Adolescents
+ENGL 361: Reading Instruction for the Teaching of Young Adult Literature
+ENGL 365: Complexities of Literacy in Literature and Non-fiction Text
+ENGL 368: Theory and Practice of Peer-to-Peer Writing Instruction
+ENGL 370: World Cinema
+ENGL 371: Film Styles and Genres
+ENGL 372: Film Directors
+ENGL 380: Literary Themes
+ENGL 381: Diversity in Twentieth-Century American Literature
+ENGL 382: LGBT Literature and Media
+ENGL 386: Creative Nonfiction
+ENGL 387: Fiction Writing
+ENGL 388: Poetry Writing
+ENGL 390: The Linguistic Structure of Modern English
+ENGL 391: Topics in Applied Linguistics
+ENGL 395: History of the English Language
+ENGL 400: Special Problems for Advanced Undergraduates
+ENGL 408: Internship
+ENGL 411: New Media Arts I
+ENGL 412: New Media Arts II
+ENGL 421: Advanced Topics in Technical and Professional Communication
+ENGL 424: Teaching English in Secondary Schools
+ENGL 425: English Clinical Experience Seminar
+ENGL 430: Chaucer
+ENGL 431: Shakespeare
+ENGL 432: Milton
+ENGL 439: Significant British Writers
+ENGL 449: Significant American Writers
+ENGL 459: Significant World Writers
+ENGL 461: Senior Project
+ENGL 467: Topics in Rhetoric and Writing
+ENGL 470: Selected Advanced Topics
+ENGL 485: Cooperative Education Experience
+ENGL 486: Cooperative Education Experience
+ENGL 487: Advanced Creative Writing: Fiction
+ENGL 488: Advanced Creative Writing: Poetry
+ENGL 495: Topics in Applied Language Study
+ENGL 497: Theories of Language Learning and Teaching
+ENGL 498: Approaches to Teaching English as a Second Language/Dialect
+ENGL 499: Practicum in Teaching English as a Second Language/Dialect
+ENGL 501: Introduction to English Studies
+ENGL 502: Seminar in Critical Analysis
+ENGL 503: Graduate Introduction to Linguistics
+ENGL 505: Composition Theory
+ENGL 506: Pedagogical Approaches to Composition
+ENGL 510: Seminar in Authors
+ENGL 511: Seminar in American Literary Periods
+ENGL 512: British Literary Periods
+ENGL 513: Seminar in Special Topics
+ENGL 515: Apprenticeship in Teaching Literature, Composition, or Linguistics at College Level
+ENGL 518: Graduate Technical Communication
+ENGL 519: Seminar in Rhetoric and Writing
+ENGL 570: Selected Advanced Topics
+ENGL 590: Directed Study
+ENGL 598: Graduate Project
+
+
+*** EDES ***
+EDES 101: Introduction to Architecture and Environmental Design
+EDES 123: Principles of Environmental Design
+EDES 333: Professional Presentations
+EDES 350: The Global Environment
+EDES 406: Sustainable Environments
+EDES 408: Implementing Sustainable Principles
+EDES 410: Advanced Implementation of Sustainable Principles
+
+
+*** ENVE ***
+ENVE 111: Introduction to the Environmental Engineering Profession
+ENVE 264: Environmental Fluid Mechanics
+ENVE 270: Selected Topics
+ENVE 304: Process Thermodynamics
+ENVE 309: Noise and Vibration Control
+ENVE 323: Engineering for the Environment
+ENVE 324: Introduction to Air Pollution
+ENVE 325: Air Quality Engineering
+ENVE 331: Introduction to Environmental Engineering
+ENVE 400: Special Problems
+ENVE 405: Environmental Engineering Research
+ENVE 407: Environmental Engineering Design Competition
+ENVE 411: Air Pollution Control
+ENVE 421: Mass Transfer Operations
+ENVE 426: Air Quality Measurements
+ENVE 434: Water Chemistry and Water Quality Measurements
+ENVE 436: Introduction to Hazardous Waste Management
+ENVE 438: Water and Wastewater Treatment Design
+ENVE 439: Sustainable Solid Waste Engineering
+ENVE 443: Bioremediation Engineering
+ENVE 450: Industrial Pollution Prevention
+ENVE 455: Environmental Health and Safety
+ENVE 466: Senior Project Design Laboratory I
+ENVE 467: Senior Project Design Laboratory II
+ENVE 470: Selected Advanced Topics
+ENVE 471: Selected Advanced Laboratory
+ENVE 480: Environmental Engineering of Energy
+ENVE 495: Cooperative Education Experience
+ENVE 500: Individual Study
+ENVE 525: Indoor Air Quality Engineering
+ENVE 535: Physico-Chemical Water and Wastewater Treatment
+ENVE 536: Biological Wastewater Treatment Processes Engineering
+ENVE 537: Decentralized Wastewater Management
+ENVE 542: Sustainable Environmental Engineering
+ENVE 570: Selected Advanced Topics
+ENVE 571: Selected Advanced Laboratory
+ENVE 581: Biochemical Engineering
+ENVE 599: Design Project (Thesis)
+
+
+*** ES ***
+ES 112: Race, Culture and Politics in the United States
+ES 114: Introduction to Ethnic Studies: Race in the United States
+ES 200: Special Problems
+ES 212: Global Origins of United States Cultures
+ES 215: Planning for and with Multiple Publics
+ES 241: Survey of Indigenous Studies
+ES 242: Survey of Africana Studies
+ES 243: Survey of Latino/a Studies
+ES 244: Survey of Asian American Studies
+ES 270: Selected Topics
+ES 300: Chicano/a Non-Fiction Literature
+ES 308: Fire and Society
+ES 310: Hip-Hop, Poetics and Politics
+ES 320: African American Cultural Images
+ES 321: Native American Cultural Images
+ES 322: Asian American Cultural Images
+ES 323: Mexican American Cultural Images
+ES 325: Sexuality and Gender in African American Communities
+ES 326: Native American Architecture and Place
+ES 330: The Chinese American Experience
+ES 335: The Filipina/o American Experience
+ES 340: Cultural Production and Ethnicity
+ES 345: Queer Ethnic Studies
+ES 350: Gender, Race, Culture, Science and Technology
+ES 351: Gender, Race, Class, Nation in Global Engineering, Technology &amp; International Development
+ES 360: Ethnicity and the Land
+ES 380: Critical Race Theory
+ES 381: The Social Construction of Whiteness
+ES 390: Research Methodology in Comparative Ethnic Studies
+ES 400: Special Problems for Advanced Undergraduates
+ES 406: Indigenous Peoples and International Law and Policy
+ES 410: Advanced Topics in Comparative Ethnic Studies
+ES 450: Fieldwork in Comparative Ethnic Studies
+ES 461: Senior Project
+ES 470: Selected Advanced Topics
+
+
+*** FPE ***
+FPE 500: Individual Study
+FPE 501: Fundamental Thermal Sciences
+FPE 502: Fire Dynamics
+FPE 503: Flammability Assessment Methods
+FPE 504: Fire Modeling
+FPE 521: Egress Analysis and Design
+FPE 522: Fire Detection, Alarm and Communication Systems
+FPE 523: Water-based Fire Suppression
+FPE 524: Structural Fire Protection
+FPE 551: Fire Safety Regulation and Management
+FPE 552: Smoke Management and Special Hazards
+FPE 554: Forensic Fire Analysis
+FPE 555: Fire Protection Management in the Wildland-Urban Interface (WUI)
+FPE 556: Advanced Heat Transfer III
+FPE 596: Culminating Experience in Fire Protection Engineering
+FPE 599: Design Thesis
+
+
+*** FSN ***
+FSN 101: Orientation to the Food Science and Nutrition Majors
+FSN 121: Fundamentals of Food
+FSN 125: Introduction to Food Science
+FSN 200: Special Problems for Undergraduates
+FSN 201: Enterprise Project
+FSN 204: Food Processing Operations
+FSN 210: Nutrition
+FSN 230: Elements of Food Processing
+FSN 244: Cereal and Bakery Science
+FSN 250: Food and Nutrition: Customs and Culture
+FSN 275: Elements of Food Safety
+FSN 290: Selected Topics
+FSN 304: Advanced Culinary Principles and Practice
+FSN 310: Maternal and Child Nutrition
+FSN 311: Sensory Evaluation of Food
+FSN 315: Nutrition in Aging
+FSN 319: Food Technology for the Consumer
+FSN 321: Contemporary Issues in Food Choice and Preparation
+FSN 328: Nutrient Metabolism I
+FSN 329: Nutrient Metabolism II
+FSN 330: Introduction to Principles of Food Engineering
+FSN 334: Food Packaging
+FSN 335: Food Quality Assurance
+FSN 341: Fermented Foods
+FSN 342: Brewing Science
+FSN 343: Institutional Foodservice I
+FSN 344: Institutional Foodservice II
+FSN 346: Brewing Methods
+FSN 354: Packaging Function in Food Processing
+FSN 364: Food Chemistry
+FSN 368: Food Analysis
+FSN 370: Food Plant Sanitation and Prerequisite Programs
+FSN 374: Food Laws and Regulations
+FSN 375: Food Safety
+FSN 400: Special Problems for Advanced Undergraduates
+FSN 401: Advanced Enterprise Project
+FSN 408: Food Product Development
+FSN 410: Nutritional Implications of Food Industry Practices
+FSN 415: Nutrition Education and Communications
+FSN 416: Community Nutrition
+FSN 417: Nutrition Counseling
+FSN 420: Critical Evaluation of Nutrition Research
+FSN 426: Nutrition and Foodservice Systems Management
+FSN 429: Clinical Nutrition I
+FSN 430: Clinical Nutrition II
+FSN 440: Internship
+FSN 444: Food Engineering
+FSN 461: Senior Project I
+FSN 462: Senior Project II
+FSN 463: Professional Practice in Nutrition and Dietetics
+FSN 470: Selected Advanced Topics
+FSN 471: Selected Advanced Laboratory
+FSN 474: Advanced Food Processing
+FSN 485: Cooperative Education Experience in Food Science and Nutrition
+FSN 495: Cooperative Education Experience in Food Science and Nutrition
+FSN 500: Individual Study
+FSN 501: Lipid Metabolism and Nutrition
+FSN 505: Orientation to Food Science and Nutrition Graduate Studies
+FSN 508: Food Product Innovation
+FSN 516: Population Health and Epidemiology
+FSN 528: Biochemical and Molecular Aspects of Human Macronutrient Metabolism
+FSN 529: Metabolic and Molecular Aspects of Vitamins
+FSN 530: Metabolic and Molecular Aspects of Minerals
+FSN 541: Dietetic Internship Seminar
+FSN 564: Chemistry of Food Systems
+FSN 570: Selected Topics in Food Science and Nutrition
+FSN 571: Selected Advanced Laboratory in Food Science and Nutrition
+FSN 574: Food Process Failure Analysis
+FSN 575: Advanced Food Safety
+FSN 581: Graduate Seminar in Food Science and Nutrition
+FSN 599: Thesis
+
+
+*** FR ***
+FR 101: Elementary French I
+FR 102: Elementary French  II
+FR 103: Elementary French III
+FR 201: Intermediate French I
+FR 202: Intermediate French II
+FR 203: Intermediate French III
+FR 233: Critical Reading in French Literature
+FR 270: Selected Topics
+FR 301: Advanced French Composition and Grammar
+FR 302: Advanced French Conversation and Grammar
+FR 305: Significant Works in French
+FR 350: French Literature in English Translation
+FR 470: Selected Advanced Topics
+
+
+*** GEOG ***
+GEOG 150: Human Geography
+GEOG 200: Special Problems for Undergraduates
+GEOG 250: Physical Geography
+GEOG 270: Selected Topics
+GEOG 300: Geography of United States
+GEOG 301: Geography of Resource Utilization
+GEOG 308: Global Geography
+GEOG 318: Applications in GIS
+GEOG 325: Climate and Humanity
+GEOG 328: Applications in Remote Sensing
+GEOG 333: Human Impact on the Earth
+GEOG 340: Geography of California
+GEOG 350: The Global Environment
+GEOG 370: Geography of Latin America
+GEOG 380: Geography of the Caribbean
+GEOG 400: Special Problems for Advanced Undergraduates
+GEOG 408: Geography of International Development
+GEOG 414: Global and Regional Climatology
+GEOG 415: Applied Meteorology and Climatology
+GEOG 440: Advanced-Applications in GIS
+GEOG 455: Anthropology-Geography Research Design and Methods
+GEOG 461: Senior Project I
+GEOG 462: Senior Project II
+GEOG 464: Professional Preparation for Anthropologists/Geographers
+GEOG 465: Internship
+GEOG 470: Selected Advanced Topics
+
+
+*** GEOL ***
+GEOL 102: Introduction to Geology
+GEOL 200: Special Problems for Undergraduates
+GEOL 201: Physical Geology
+GEOL 203: Fossils and the History of Life
+GEOL 205: Earthquakes
+GEOL 206: Geologic Excursions
+GEOL 241: Physical Geology Laboratory
+GEOL 270: Selected Topics
+GEOL 305: Fundamentals of Seismology
+GEOL 310: Igneous and Metamorphic Petrology
+GEOL 330: Principles of Stratigraphy
+GEOL 400: Special Problems for Advanced Undergraduates
+GEOL 401: Field-Geology Methods
+GEOL 402: Geologic Mapping
+GEOL 404: Research Experience for Advanced Undergraduates
+GEOL 415: Structural Geology
+GEOL 420: Applied Geophysics
+GEOL 470: Selected Advanced Topics
+GEOL 471: Selected Advanced Laboratory
+
+
+*** GER ***
+GER 101: Elementary German I
+GER 102: Elementary German II
+GER 103: Elementary German III
+GER 201: Intermediate German I
+GER 202: Intermediate German II
+GER 203: Intermediate German III
+GER 233: Critical Reading in German Literature
+GER 270: Selected Topics
+GER 301: Advanced German Composition and Grammar
+GER 302: Advanced German Conversation and Grammar
+GER 305: Significant Works in German
+GER 350: German Literature in English Translation
+GER 470: Selected Advanced Topics
+
+
+*** GS ***
+GS 597: Continued Graduate Study
+
+
+*** GSA ***
+GSA 501: Graduate Accounting Individual Research
+GSA 536: Taxation of Trusts, Estates, and Transfer Taxes
+GSA 537: State and Local Taxation
+GSA 538: Current Developments in Taxation
+GSA 539: Clinical Tax Education Internship
+GSA 540: Taxation of Corporations and Partnerships
+GSA 541: Advanced Financial Reporting Issues I
+GSA 543: Advanced Financial Reporting Issues II
+GSA 544: Advanced Enterprise Wide Business Processes for Accounting
+GSA 545: Applied Accounting Research and Communications
+GSA 546: Tax Research and Administrative Procedures
+GSA 548: Advanced Individual Taxation and Tax Planning
+GSA 549: Advanced Taxation of Flow-Through Entities
+GSA 550: Advanced Corporate Taxation
+GSA 551: International Taxation
+GSA 552: Fraud Auditing and Examination
+GSA 553: International Accounting
+GSA 554: Advanced Spreadsheet Modeling for Accounting
+GSA 555: Database Modeling and Analysis for Accounting
+GSA 556: Financial Accounting and Valuation
+GSA 570: Selected Advanced Topics for Accounting
+
+
+*** GSB ***
+GSB 500: Independent Study
+GSB 501: Individual Research
+GSB 503: Collaborative Industry Project
+GSB 510: Data Visualization and Communication in Business
+GSB 511: Accounting for Managers
+GSB 512: Quantitative Analysis
+GSB 513: Organizational Behavior
+GSB 514: The Legal and Regulatory Environment of Business
+GSB 516: Strategic Marketing Analytics
+GSB 520: Data Management for Business Analytics
+GSB 522: Advanced Management Information Systems
+GSB 523: Managerial Economics
+GSB 524: Marketing Management
+GSB 529: Effective Communication Skills for Managers
+GSB 530: Data Analytics and Mining for Business
+GSB 531: Managerial Finance
+GSB 533: Aggregate Economics Analysis and Policy
+GSB 534: Lean Operations Management
+GSB 539: Graduate Internship in Business
+GSB 550: Bayesian Econometrics
+GSB 555: Negotiation
+GSB 556: Entrepreneurship and New Venture Management
+GSB 562: Seminar in General Management and Strategy
+GSB 563: International Business Tour
+GSB 564: Entrepreneurial Finance
+GSB 569: Managing Technology in the International Legal Environment
+GSB 570: Selected Advanced Topics
+GSB 573: Marketing Research
+GSB 577: Advanced Quantitative Business Analysis
+GSB 583: Management of Human Resources
+GSB 584: Corporate Financial Policy
+GSB 585: Investment Portfolio Management
+GSB 587: International Financial Management
+GSB 595: Managing Change
+GSB 596: Economic Forecasting
+GSB 597: Seminar in Selected Economic Problems
+
+
+*** GSE ***
+GSE 500: Independent Study
+GSE 510: Essential Mathematics for Economic Analysis
+GSE 511: Microeconomic Analysis
+GSE 512: Macroeconomic Analysis
+GSE 518: Essential Statistics for Econometrics
+GSE 520: Advanced Econometrics I
+GSE 522: Advanced Econometrics II
+GSE 524: Computational Methods in Economics
+GSE 526: Microeconometrics
+GSE 532: Environmental and Natural Resource Economics
+GSE 534: International Economics
+GSE 536: Public Economics
+GSE 538: Industrial Economics
+GSE 542: Advanced Labor Economics
+GSE 544: Evidence-Based Decision Analysis
+GSE 570: Selected Advanced Topics
+GSE 580: Seminar in Economics
+GSE 599: Thesis
+
+
+*** GSP ***
+GSP 530: Packaging Value Chain
+GSP 532: Packaging Materials
+GSP 533: Advanced Packaging Laws and Regulations
+GSP 535: Packaging Value in Logistics and Supply Chain Management
+GSP 536: Packaging Design
+GSP 538: Quality Evaluation of Packaged Products
+GSP 539: Marketing and Sales for Packaged Products
+GSP 540: Quantitative Analysis for Packaging
+GSP 541: Corporate Finance for Packaging
+
+
+*** GRC ***
+GRC 101: Introduction to Graphic Communication
+GRC 172: Introductory Applied Graphic Communication Processes
+GRC 200: Special Problems for Undergraduates
+GRC 201: Digital Publishing Systems
+GRC 203: Digital File Preparation and Workflow
+GRC 204: Introduction to Contemporary Print Management and Manufacturing
+GRC 211: Substrates, Inks and Toners
+GRC 212: Substrates, Inks and Toners: Theory
+GRC 220: Introduction to Applied Social Media in Graphic Communication
+GRC 270: Selected Topics
+GRC 301: Digital Photography and Color Management
+GRC 316: Flexographic Printing Technology
+GRC 318: Digital Typography for Print and Web
+GRC 320: Managing Quality in Graphic Communication
+GRC 322: Advanced Digital Typography
+GRC 324: Binding and Finishing Processes
+GRC 328: Offset Printing Technology
+GRC 329: Printed Electronics
+GRC 331: Color Management and Quality Analysis
+GRC 337: Consumer Packaging
+GRC 338: Web Development and Content Management
+GRC 339: Web Design and Production
+GRC 357: Specialty Printing Technologies
+GRC 361: Marketing and Sales Management for Print and Digital Media
+GRC 372: Applied Graphic Communication Practices
+GRC 377: Web and Print Publishing
+GRC 400: Special Problems for Advanced Undergraduates
+GRC 402: Digital Printing and Emerging Technologies in Graphic Communication
+GRC 403: Estimating for Print and Digital Media
+GRC 411: Strategic Trends and Profitability Issues in Print and Digital Media
+GRC 420: Graphic Communication in Integrated Marketing Communications
+GRC 421: Production Management for Print and Digital Media
+GRC 422: Human Resource Management Issues for Print and Digital Media
+GRC 429: Digital Media
+GRC 439: Book Design Technology
+GRC 440: Magazine Design Technology
+GRC 451: Management Topics in Graphic Communication
+GRC 452: Emerging Technologies in Graphic Communication
+GRC 453: Design Reproduction Topics in Graphic Communication
+GRC 461: Senior Project - Independent Study
+GRC 462: Senior Project
+GRC 463: Senior Project - Applied Practices
+GRC 470: Selected Advanced Topics
+GRC 471: Selected Advanced Laboratory
+GRC 485: Cooperative Education Experience
+GRC 495: Cooperative Education Experience
+GRC 500: Special Problems in Graphic Communication for Graduate Students
+GRC 501: Survey of Functional Printing
+GRC 502: Orientation to Functional Printing
+GRC 510: Materials for Functional Printing
+GRC 512: Printing and Coating Technologies
+GRC 514: Optical and Electrical Patterning
+GRC 520: Functional Printing Product and Business Development
+GRC 530: Functional Printing Workflows
+GRC 551: Current Trends in Printed Electronics
+GRC 552: Current Trends in Active Packaging
+GRC 553: Current Trends in Security and Anti-Counterfeiting
+GRC 560: Research Methods in Printed Electronics and Functional Imaging
+GRC 595: Cooperative Education Experience
+GRC 596: Research Project in Printed Electronics and Functional Imaging
+
+
+*** HIST ***
+HIST 100: Introduction to the Study of History
+HIST 110: Western Civilization: Ancient to Renaissance
+HIST 111: Western Civilization: Reformation to the Present
+HIST 200: Special Problems for Undergraduates
+HIST 201: United States History to 1865
+HIST 202: United States History Since 1865
+HIST 206: American Cultures
+HIST 207: Freedom and Equality in American History
+HIST 208: Survey of California History
+HIST 210: World History I
+HIST 213: Modern Political Economy
+HIST 214: Political Economy of Latin America and the Middle East
+HIST 216: Comparative Social Movements
+HIST 221: World History, Beginnings to 1000
+HIST 222: World History, 1000 - 1800
+HIST 223: World History, 1800 - Present
+HIST 225: The World at War
+HIST 270: Selected Topics
+HIST 303: Research and Writing Seminar in History
+HIST 304: Historiography
+HIST 306: The Witch-Hunts in Europe, 1400-1800
+HIST 307: European Thought 1800-2000
+HIST 308: The Trans-Atlantic Slave Trade
+HIST 309: Cultures of West Africa and the African Diaspora
+HIST 310: East Asian Culture and Civilization
+HIST 314: Middle East
+HIST 316: Modern East Asia
+HIST 317: The Lure of the Sea
+HIST 318: The City in the Modern World
+HIST 319: Modern South and Southeast Asia
+HIST 320: Colonial and Revolutionary America
+HIST 321: Civil War America
+HIST 322: Modern America
+HIST 324: The Historical Novel in the United States, 1960s to the Present
+HIST 326: United States Foreign Relations since 1898
+HIST 334: Modern Europe, 1789-1914
+HIST 335: Modern Europe, 1914-Present
+HIST 336: Britain at War: The British, the Americans and the Struggle for Freedom, 1939-1945
+HIST 337: Colonial Latin America
+HIST 338: Modern Latin America
+HIST 341: Modern Central America
+HIST 350: The Scientific Revolution, c. 1500-1800
+HIST 354: History of Network Technology
+HIST 359: Living in a Material World
+HIST 400: Special Problems for Advanced Undergraduates
+HIST 401: Early America
+HIST 402: American Revolution and the New Nation
+HIST 405: African-American History to 1865
+HIST 406: African-American History from 1865
+HIST 407: Science and Society in Cold War America
+HIST 408: The Age of Roosevelt: Depression and World War, 1929-50
+HIST 409: Vietnam War at Home and Abroad
+HIST 413: Turbulent Decades: The United States in the 1960s and 1970s
+HIST 416: Modern Japan
+HIST 417: 20th Century China
+HIST 418: Chinese Film and History
+HIST 419: Modern Southeast Asia
+HIST 421: The History of Prostitution
+HIST 422: Japanese Postwar Film and History
+HIST 423: The History of Vietnam
+HIST 424: Organizing and Teaching History
+HIST 425: History-Social Sciences Student Teaching Seminar
+HIST 426: Imperial Russia
+HIST 427: Soviet Russia
+HIST 428: The Indian Ocean
+HIST 429: Precolonial African History
+HIST 430: Modern African History
+HIST 432: United States Environmental History
+HIST 433: History of the American West, Southwest Borderlands, and California
+HIST 434: American Women's History to 1870
+HIST 435: American Women's History from 1870
+HIST 437: Nazi Germany
+HIST 440: Topics and Issues in the History of the United States
+HIST 441: Topics and Issues in European History
+HIST 442: Topics and Issues in Latin American History
+HIST 443: Topics and Issues in Asian History
+HIST 444: Topics and Issues in African History
+HIST 445: Topics and Issues in Comparative History
+HIST 452: Renaissance and Reformation Europe
+HIST 453: Religious Wars and Absolutism
+HIST 458: Gender and Sexuality in Modern Europe
+HIST 459: Imperialism and Postcolonial Studies
+HIST 460: Senior Project I
+HIST 461: Senior Project II
+HIST 467: History Internship
+HIST 470: Selected Advanced Topics
+HIST 475: Arabia and the Arab Gulf States
+HIST 485: Cooperative Education Experience
+HIST 495: Cooperative Education Experience
+HIST 500: Special Problems for Graduate Students
+HIST 504: Graduate Study in History
+HIST 505: Graduate Seminar in United States History
+HIST 506: Graduate Seminar in European History
+HIST 507: Graduate Seminar in East Asian History
+HIST 508: Graduate Seminar in Latin American History
+HIST 509: Graduate Seminar in African History
+HIST 510: Graduate Seminar in Comparative History
+HIST 512: Supervised Reading for Comprehensive Exams
+HIST 570: Selected Advanced Topics
+HIST 599: Thesis
+
+
+*** HNRC ***
+HNRC 199: Honors Contract
+HNRC 200: Honors Leadership Experience
+HNRC 399: Honors Contract
+HNRC 400: Honors Professional, Social and Global Experience
+
+
+*** HNRS ***
+HNRS 100: Introduction to the Honors Community
+HNRS 101: Public Speaking
+HNRS 102: Principles of Oral Communication
+HNRS 112: Race, Culture and Politics in the United States
+HNRS 131: General Physics I
+HNRS 132: General Physics II
+HNRS 134: General Physics IA
+HNRS 141: Calculus I
+HNRS 142: Calculus II
+HNRS 143: Calculus III
+HNRS 145: Reasoning, Argumentation, and Writing
+HNRS 148: Reasoning, Argumentation and Professional Writing
+HNRS 149: Technical Writing for Engineers
+HNRS 161: Creating Sustainable Communities I
+HNRS 162: Creating Sustainable Communities II
+HNRS 163: Creating Sustainable Communities III
+HNRS 200: Special Problems for Undergraduates
+HNRS 201: Survey of Economics
+HNRS 207: Freedom and Equality in American History
+HNRS 211: Engineering Statics
+HNRS 212: Global Origins of United States Cultures
+HNRS 213: Modern Political Economy
+HNRS 214: Engineering Dynamics
+HNRS 216: Comparative Social Movements
+HNRS 223: World History, 1800 - Present
+HNRS 230: Philosophical Classics: Knowledge and Reality
+HNRS 231: Philosophical Classics: Ethics and Political Philosophy
+HNRS 232: Masterworks of British Literature from the Late 18th Century to the Present
+HNRS 241: Calculus IV
+HNRS 244: Linear Analysis I
+HNRS 251: Great Books I: Introduction to Classical Literature
+HNRS 261: Leadership: Self Evaluation
+HNRS 262: Leadership: Group Dynamics
+HNRS 263: Leadership: Coaching and Mentoring
+HNRS 265: Research and Information Skills for Honors Students
+HNRS 270: Selected Topics
+HNRS 299: Honors Group Seminar
+HNRS 302: The Learn By Doing Lab Teaching Practicum
+HNRS 303: Economics of Poverty, Discrimination and Immigration
+HNRS 304: Values and Technology
+HNRS 310: Air and Space
+HNRS 311: Computers for Poets
+HNRS 312: East Asian Culture and Civilization
+HNRS 317: The Lure of the Sea
+HNRS 320: Topics and Issues in Values, Media and Culture
+HNRS 321: Undergraduate Research Methods and Practice
+HNRS 322: Leadership and Project Management
+HNRS 323: Modern America
+HNRS 324: The Historical Novel in the United States, 1960s to the Present
+HNRS 332: British Literature in the Age of Enlightenment: 1660-1798
+HNRS 333: British Literature in the Age of Romanticism: 1798-1832
+HNRS 334: Modern Europe, 1789-1914
+HNRS 335: Modern Europe, 1914-Present
+HNRS 336: Social Ethics
+HNRS 340: Sexuality Studies
+HNRS 341: The Literary Sources of the American Character: 1865-1914
+HNRS 342: The Literary Sources of the American Character: 1914-1956
+HNRS 343: Multiple Voices of Contemporary American Literature
+HNRS 345: Women Writers of the Twentieth Century
+HNRS 347: African American Literature
+HNRS 352: Modern Drama
+HNRS 361: Honors Track - Research, International, and Community Service Experience
+HNRS 380: Literary Themes
+HNRS 391: Appropriate Technology for the World's People: Development
+HNRS 392: Appropriate Technology for the World's People: Design
+HNRS 400: Special Problems for Advanced Undergraduates
+HNRS 411: New Media Arts I
+HNRS 412: New Media Arts II
+HNRS 424: Design of Museum Displays of Science, Engineering and Technology
+HNRS 450: Solar Photovoltaic System Engineering
+HNRS 461: Honors Capstone Seminar
+HNRS 470: Selected Advanced Topics
+HNRS 471: Selected Advanced Laboratory
+HNRS 475: Sustainable Forest and Environmental Practices
+HNRS 492: Appropriate Technology for the World's People: Design
+HNRS 499: Honors Group Seminar
+
+
+*** IME ***
+IME 101: Introduction to Industrial and Manufacturing Engineering
+IME 130: Technical Foundations
+IME 140: Graphics Communication and Modeling
+IME 141: Manufacturing Processes: Net Shape
+IME 142: Manufacturing Processes: Materials Joining
+IME 143: Manufacturing Processes: Material Removal
+IME 144: Introduction to Design and Manufacturing
+IME 156: Basic Electronics Manufacturing
+IME 157: Electronics Manufacturing
+IME 200: Special Problems for Undergraduates
+IME 223: Process Improvement Fundamentals
+IME 239: Industrial Costs and Controls
+IME 240: Additional Engineering Laboratory
+IME 270: Selected Topics
+IME 301: Operations Research I
+IME 303: Project Organization and Management
+IME 305: Operations Research II
+IME 312: Data Management and System Design
+IME 314: Engineering Economics
+IME 319: Human Factors Engineering
+IME 320: Human Factors and Technology
+IME 322: Leadership and Project Management
+IME 326: Engineering Test Design and Analysis
+IME 327: Test Design and Analysis in Manufacturing Engineering
+IME 330: Fundamentals of Manufacturing Engineering
+IME 335: Computer-Aided Manufacturing I
+IME 336: Computer-Aided Manufacturing II
+IME 342: Manufacturing Systems Integration
+IME 351: Advanced Material Removal Process Design
+IME 356: Manufacturing Automation
+IME 400: Special Problems for Advanced Undergraduates
+IME 401: Sales Engineering
+IME 408: Systems Engineering
+IME 409: Economic Decision Systems
+IME 410: Production Planning and Control Systems
+IME 416: Automation of Industrial Systems
+IME 417: Supply Chain and Logistics Management
+IME 418: Product-Process Design
+IME 420: Simulation
+IME 421: Manufacturing Organizations
+IME 428: Engineering Metrology
+IME 429: Ergonomics Laboratory
+IME 430: Quality Engineering
+IME 432: Additive Manufacturing
+IME 435: Reliability for Design and Testing
+IME 441: Engineering Supervision I
+IME 442: Engineering Supervision II
+IME 443: Facilities Planning and Design
+IME 450: Manufacturing Process and Tool Engineering
+IME 451: Radio Frequency Identification System Design
+IME 457: Advanced Electronic Manufacturing
+IME 458: Microelectronics and Electronics Packaging
+IME 460: Introduction to Value Chain Analysis
+IME 470: Selected Advanced Topics
+IME 471: Selected Advanced Laboratory
+IME 481: Senior Design Project I
+IME 482: Senior Design Project II
+IME 495: Cooperative Education Experience
+IME 500: Individual Study
+IME 503: Applied Statistical Methods in Engineering
+IME 507: Graduate Seminar
+IME 510: Systems Engineering I
+IME 511: Systems Engineering II
+IME 520: Advanced Information Systems for Operations
+IME 527: Design of Experiments
+IME 541: Advanced Operations Research
+IME 542: Applied Reliability Engineering
+IME 543: Applied Human Factors
+IME 544: Advanced Topics in Engineering Economy
+IME 545: Advanced Topics in Simulation
+IME 556: Technological Project Management
+IME 570: Selected Advanced Topics
+IME 571: Selected Advanced Laboratory
+IME 577: Engineering Entrepreneurship
+IME 580: Manufacturing Systems
+IME 596: Graduate Project/Internship
+IME 599: Thesis
+
+
+*** ITP ***
+ITP 137: Electrical/Electronic Systems
+ITP 150: Industrial Power Systems
+ITP 211: Industrial Safety and Quality Program Leadership
+ITP 233: Product Modeling and Communication
+ITP 234: Packaging Design Fundamentals
+ITP 260: Manufacturing Processes and Materials
+ITP 270: Selected Topics
+ITP 275: Industrial Facility Systems and Equipment
+ITP 302: Developing and Presenting New Enterprise Strategies
+ITP 303: Lean Six Sigma Green Belt
+ITP 326: Product Design and Development
+ITP 329: Industrial Materials
+ITP 330: Packaging Fundamentals
+ITP 341: Packaging Polymers and Processing
+ITP 371: Supply Chain Management in Manufacturing and Services
+ITP 390: Industrial Automation
+ITP 400: Special Problems for Advanced Undergraduates
+ITP 403: Lean and Quality Systems Management
+ITP 406: Industrial Sales
+ITP 408: Paper and Paperboard Packaging
+ITP 409: Packaging Machinery and Processes
+ITP 410: Operations Planning and Control
+ITP 411: Packaging Sustainability
+ITP 412: Instrumental Analysis of Packaging Polymers
+ITP 413: Packaging Quality Assessment
+ITP 414: Packaging Laws &amp; Regulations
+ITP 415: Supply Chain and Logistics
+ITP 419: Cooperative Education/Internship
+ITP 428: Commercialization of New Technologies
+ITP 430: Healthcare Packaging
+ITP 457: Radio Frequency Identification in Supply Chain Management
+ITP 461: Senior Project I
+ITP 462: Senior Project II
+ITP 464: Applied Industrial Technology Senior Project Seminar
+ITP 467: Applied Business Operations
+ITP 470: Selected Advanced Topics
+ITP 471: Selected Advanced Laboratory
+ITP 475: Packaging Performance Testing
+ITP 485: Packaging Development
+ITP 500: Individual Study
+ITP 532: Technology Entrepreneurship
+ITP 537: Distribution Packaging for Business Managers
+ITP 545: Advanced Product Design and Development
+ITP 570: Selected Advanced Topics
+ITP 571: Selected Advanced Topics Laboratory
+ITP 591: Applied Industry Project I
+ITP 592: Applied Industry Project II
+ITP 599: Industrial and Technical Studies Thesis
+
+
+*** ISLA ***
+ISLA 123: Introduction to Science, Technology &amp; Society
+ISLA 240: Introduction to Media Arts and Technologies
+ISLA 303: Values and Technology
+ISLA 305: Topics in Public Engagements with STEM
+ISLA 315: Critical Issues in Latin American Studies
+ISLA 316: London: From Roman Colony to World Capital
+ISLA 319: London Activities
+ISLA 320: Topics and Issues in Values, Media and Culture
+ISLA 330: Cal Poly Land: Nature, Technology, and Society
+ISLA 340: Media Arts and Technologies: Storytelling
+ISLA 341: Media Arts and Technologies: Cinematic Process
+ISLA 350: The Global Environment
+ISLA 393: Action-oriented Ethnography
+ISLA 400: Independent Study Project
+ISLA 450: Summer Internship in London
+ISLA 456: Advanced Project-Based Learning in Science, Technology &amp; Society
+ISLA 470: Selected Advanced Topics
+
+
+*** ITAL ***
+ITAL 101: Elementary Italian I
+ITAL 102: Elementary Italian II
+ITAL 103: Elementary Italian III
+ITAL 201: Intermediate Italian I
+
+
+*** JPNS ***
+JPNS 101: Elementary Japanese I
+JPNS 102: Elementary Japanese II
+JPNS 103: Elementary Japanese III
+JPNS 201: Intermediate Japanese I
+
+
+*** JOUR ***
+JOUR 102: Introduction to Journalism
+JOUR 201: Journalism History
+JOUR 203: News Reporting and Writing
+JOUR 205: Agricultural Communications
+JOUR 218: Media, Self and Society
+JOUR 219: Multicultural Society and the Mass Media
+JOUR 220: Introduction to Radio Broadcasting
+JOUR 270: Selected Topics
+JOUR 285: Introduction to Multimedia Journalism
+JOUR 302: Mass Media Law
+JOUR 303: Web Audio and Video
+JOUR 304: Public Affairs Reporting
+JOUR 312: Public Relations
+JOUR 320: Cal Poly Radio Laboratory
+JOUR 331: Contemporary Advertising
+JOUR 333: Broadcast News
+JOUR 334: Editing
+JOUR 342: Public Relations Writing and Editing
+JOUR 346: Broadcast Announcing and Production
+JOUR 348: Electronic News Gathering
+JOUR 350: Data Journalism
+JOUR 352: Advanced Newspaper Reporting Practicum
+JOUR 353: Advanced Broadcast Journalism Practicum
+JOUR 390: Visual Communication for the Mass Media
+JOUR 400: Special Problems for Advanced Undergraduates
+JOUR 401: Global Communication
+JOUR 402: Journalism Ethics
+JOUR 407: Feature Writing
+JOUR 410: Advanced Digital Journalism
+JOUR 412: Public Relations and Crisis Management
+JOUR 413: Public Relations Campaigns
+JOUR 415: Advanced Public Relations Practice: CCPR
+JOUR 418: Copyright, Trademark, Patent and Commercial Speech in Digital Media
+JOUR 444: Media Internship
+JOUR 460: Senior Project
+JOUR 462: Senior Media Practicum
+JOUR 470: Selected Advanced Topics
+JOUR 471: Selected Advanced Laboratory
+
+
+*** KINE ***
+KINE 100: Physical Activity for Students with Disabilities
+KINE 108: Basketball
+KINE 109: Bowling
+KINE 112: Intermediate Bowling
+KINE 121: Golf
+KINE 122: Golf, Int.-Adv.
+KINE 125: Jogging
+KINE 129: Yoga/Pilates
+KINE 131: Group Fitness Combine
+KINE 132: Beginning Racquetball
+KINE 133: Racquetball, Int. - Adv.
+KINE 137: Self-Defense
+KINE 138: Karate
+KINE 139: Soccer
+KINE 143: Swimming for Non-Swimmers
+KINE 144: Swimming: Advanced Beginner
+KINE 145: Intermediate Swimming
+KINE 147: Swim Conditioning
+KINE 148: Tennis, Beg.
+KINE 149: Tennis, Int. - Adv.
+KINE 151: Volleyball
+KINE 154: Weight Training
+KINE 176: Fitness Walking
+KINE 180: Orientation to Kinesiology
+KINE 181: First Aid/CPR/AED
+KINE 208: Golf
+KINE 210: Tennis
+KINE 212: Racquetball
+KINE 213: Basketball
+KINE 214: Volleyball
+KINE 223: Cross Country and Track Events
+KINE 224: Field Events
+KINE 226: Soccer
+KINE 229: Badminton
+KINE 230: Aquatic Fitness Activities
+KINE 231: Leading Group Fitness Activities
+KINE 250: Healthy Living
+KINE 255: Personal Health: A Multicultural Approach
+KINE 260: Women's Health Issues
+KINE 265: Introduction to Community and Public Health
+KINE 266: Sport and Exercise Psychology
+KINE 278: Introduction to Perspectives in Physical Activity
+KINE 280: Assessment Team for Health Promotion Activities
+KINE 281: Health Ambassadors
+KINE 290: Selected Topics
+KINE 297: Medical Terminology
+KINE 298: Disease Epidemiology
+KINE 301: Functional Anatomy
+KINE 303: Physiology of Exercise
+KINE 304: Pathophysiology and Exercise
+KINE 305: Drugs in Society
+KINE 308: Motor Development
+KINE 310: Concepts and Applications in Elementary Physical Education
+KINE 311: Strength Training Instruction
+KINE 319: Introduction to Research Methods in Kinesiology
+KINE 320: Media and Technology in Health Promotion
+KINE 323: Sport and Gender
+KINE 324: Sports, Media and American Popular Culture
+KINE 330: Group Fitness Instruction
+KINE 366: Applied Sport Psychology
+KINE 400: Special Problems for Advanced Undergraduates
+KINE 401: Managing Exercise and Health Programs
+KINE 402: Motor Learning and Control
+KINE 403: Biomechanics
+KINE 406: Neuroanatomy
+KINE 407: Adapted Physical Activity
+KINE 408: Exercise and Health Gerontology
+KINE 434: Health Promotion Program Planning
+KINE 435: Health Promotion Program Implementation and Evaluation
+KINE 437: Directed Fieldwork
+KINE 438: Adapted Physical Activity Fieldwork
+KINE 440: Physical Education Practicum
+KINE 443: Health Education for Teachers
+KINE 445: Electrocardiography
+KINE 446: Echocardiography
+KINE 449: Exercise Prescription and Leadership
+KINE 450: Worksite and University Health Promotion Programs
+KINE 451: Nutrition for Fitness and Sport
+KINE 452: Exercise Testing and Prescription for Fitness Specialists
+KINE 453: Obesity Prevention and Treatment
+KINE 454: Exercise Metabolism
+KINE 459: Personal and Group Fitness Instruction
+KINE 460: Experiential Senior Project
+KINE 461: Senior Project Report
+KINE 462: Research Honors Senior Project
+KINE 463: Exercise Science and Health Promotion Fieldwork
+KINE 470: Selected Advanced Topics
+KINE 471: Selected Advanced Laboratory
+KINE 485: Cooperative Education Experience
+KINE 495: Cooperative Education Experience
+KINE 500: Individual Study
+KINE 501: Evaluation of Literature and Current Trends in Kinesiology
+KINE 503: Current Health Issues
+KINE 504: Advanced Pathophysiology and Exercise
+KINE 505: Introduction to Issues, Ethics and Policies in Teaching Kinesiology
+KINE 510: Advanced Health Behavior Change Programs
+KINE 511: Administration in Exercise and Health Settings
+KINE 517: Research Methods in Kinesiology
+KINE 518: Research Prospectus and Proposal Writing
+KINE 522: Advanced Biomechanics
+KINE 525: Advanced Motor Learning and Control
+KINE 526: Advanced Sport and Exercise Psychology
+KINE 530: Advanced Physiology of Exercise
+KINE 536: Advanced Electrocardiography
+KINE 537: Internship
+KINE 539: Effective Practice in Teaching and Coaching
+KINE 570: Selected Advanced Topics
+KINE 581: Graduate Seminar in Kinesiology
+KINE 585: Cooperative Education Experience
+KINE 599: Thesis or Project
+
+
+*** LA ***
+LA 101: Introduction to Landscape Architecture
+LA 170: Principles of Design Communication
+LA 171: Principles of Digital Communication
+LA 202: Design Fundamentals I
+LA 203: Design Fundamentals II
+LA 204: Design Fundamentals III
+LA 211: History of Landscape Architecture: Ancient Civilizations through Colonial America
+LA 212: History of Modern and Contemporary Landscape Architecture
+LA 218: Applications in GIS
+LA 220: Landscape Ecology: Concepts, Issues and Interrelationships
+LA 221: California Plants and Plant Communities
+LA 241: Site Engineering Techniques and Applications
+LA 242: Implementation Strategies
+LA 243: Materials and Techniques of Landscape Construction
+LA 270: Selected Topics
+LA 317: The World of Spatial Data and Geographic Information Technology
+LA 320: Design Theory for Landscape Architects
+LA 330: Cultural Landscapes: People, Places and Ethical Decisions
+LA 349: Advanced Planting Design
+LA 350: Advanced Landscape Construction
+LA 370: Professional Practice
+LA 371: Internship
+LA 400: Special Problems for Advanced Undergraduates
+LA 401: Research Project
+LA 402: Design Theory and Exploration Focus Studio
+LA 403: Natural Environments Design Focus Studio
+LA 404: Cultural Environments Design Focus Studio
+LA 405: Project Design and Implementation Focus Studio
+LA 431: CAD and Digital Media Communications (ILC)
+LA 432: Landscape Ecology Applications (ILC)
+LA 433: Cultural Environments (ILC)
+LA 434: Project Design and Implementation (ILC)
+LA 435: Professional Practice (ILC)
+LA 436: Traditional and Digital Media Communications (ILC)
+LA 437: 3D Digital Design Communications (ILC)
+LA 438: GIS Application to Design Projects (ILC)
+LA 439: Planting Design (ILC)
+LA 461: Senior Design Project Focus Studio
+LA 470: Selected Advanced Topics
+LA 471: Selected Advanced Laboratory
+LA 482: Evaluating Social and Behavioral Factors for Open Space Design
+LA 483: Special Studies in Landscape Architecture
+LA 485: Cooperative Education Experience
+LA 495: Cooperative Education Experience
+LA 585: Cooperative Education Experience
+LA 595: Cooperative Education Experience
+
+
+*** LAES ***
+LAES 200: Special Problems for Undergraduates
+LAES 270: Selected Topics
+LAES 301: Project-Based Learning in Liberal Arts and Engineering Studies
+LAES 302: Advanced Project-Based Learning in Liberal Arts and Engineering Studies
+LAES 400: Special Problems for Advanced Undergraduates
+LAES 411: Global Synthesis in Liberal Arts and Engineering Studies
+LAES 430: Internship
+LAES 461: Senior Project in Liberal Arts and Engineering Studies
+LAES 462: Capstone Senior Seminar in Liberal Arts and Engineering Studies
+LAES 470: Selected Advanced Topics
+LAES 471: Selected Advanced Laboratory
+LAES 485: Cooperative Education Experience
+LAES 495: Cooperative Education Experience
+
+
+*** LS ***
+LS 201: Orientation to Liberal Studies
+LS 211: Visual Arts in the Elementary Classroom
+LS 214: Constitutional Issues in the History of U.S. and California Education
+LS 230: Field Experience in the Elementary Classroom I
+LS 250: Field Experience in the Elementary Classroom II
+LS 260: Children's Literature
+LS 290: Selected Topics
+LS 301: Liberal Studies Career Preparation
+LS 305: Project Based Learning in STEM Education
+LS 310: Storytelling: Modern Applications of Traditional Narrative
+LS 370: Performing Arts in the Elementary Classroom
+LS 380: Subject Matter Apprenticeship
+LS 400: Special Problems for Advanced Undergraduates
+LS 410: Subject Matter Seminar
+LS 411: Advanced History/Social Sciences Integration for the K-8 Classroom
+LS 412: Advanced Arts Integration for the K-8 Classroom
+LS 461: Senior Project Seminar
+LS 462: Senior Project Research
+LS 470: Selected Advanced Topics
+
+
+*** MSCI ***
+MSCI 100: Introduction to Marine Sciences
+MSCI 301: Biological Oceanography
+MSCI 303: Ocean Sampling Techniques
+MSCI 307: World Aquaculture: Applications, Methodologies and Trends
+MSCI 324: Marine Mammals, Birds and Reptiles
+MSCI 328: Marine Ecology
+MSCI 330: Technologies for Ocean Discovery
+MSCI 401: Marine Science Outreach
+MSCI 410: Scientific Diving
+MSCI 428: Marine Conservation and Policy
+MSCI 437: Marine Botany
+MSCI 438: Aquaculture
+MSCI 439: Fisheries Science and Resource Management
+MSCI 440: Communicating Ocean Sciences to Informal Audiences
+
+
+*** MATE ***
+MATE 110: Introduction to Materials Engineering Design  I
+MATE 120: Introduction to Materials Engineering Design II
+MATE 130: Introduction to Materials Engineering Design III
+MATE 200: Special Problems for Undergraduates
+MATE 210: Materials Engineering
+MATE 215: Materials Laboratory I
+MATE 222: Materials Selection Life Cycle
+MATE 225: Materials Laboratory II
+MATE 232: Materials, Ethics, and Society
+MATE 235: Materials Laboratory III
+MATE 270: Selected Topics
+MATE 310: Noncrystalline Material Systems
+MATE 325: Transport Phenomena I
+MATE 326: Transport Phenomena II
+MATE 327: Transport Phenomena III
+MATE 330: Composite Materials Systems
+MATE 340: Electronic Materials Systems
+MATE 350: Structural Materials Systems
+MATE 359: Living in a Material World
+MATE 360: Metallurgical Materials Systems
+MATE 370: Kinetics of Materials and Process Design
+MATE 380: Thermodynamics and Physical Chemistry
+MATE 400: Special Problems for Advanced Undergraduates
+MATE 401: Materials Characterization Techniques
+MATE 410: Nanoscale Engineering
+MATE 420: Biopolymers and Bionanocomposites
+MATE 425: Corrosion Engineering
+MATE 430: Micro/Nano Fabrication
+MATE 435: Microfabrication Laboratory
+MATE 440: Welding Metallurgy and Joining of Advanced Materials
+MATE 445: Joining of Advanced Materials Laboratory
+MATE 446: Surface Chemistry of Materials
+MATE 450: Fracture and Failure Analysis
+MATE 458: Microelectronics and Electronics Packaging
+MATE 460: Materials Selection in Mechanical Design
+MATE 470: Selected Advanced Topics
+MATE 471: Selected Advanced Laboratory
+MATE 482: Senior Project I
+MATE 483: Senior Project II
+MATE 484: Senior Project III
+MATE 495: Cooperative Education Experience
+MATE 500: Individual Study
+MATE 510: Materials Analysis
+MATE 522: Advanced Ceramics
+MATE 530: Biomaterials
+MATE 550: Micro Systems
+MATE 570: Selected Advanced Topics
+MATE 571: Selected Advanced Laboratory
+MATE 590: Solidification and Densification
+MATE 599: Design Project (Thesis)
+
+
+*** MATH ***
+MATH 92: Beginning Algebra Review
+MATH 94: Beginning Algebra Workshop
+MATH 96: Intermediate Algebra
+MATH 98: Intermediate Algebra Workshop
+MATH 112: Nature of Modern Math
+MATH 116: Precalculus Algebra I
+MATH 117: Precalculus Algebra II
+MATH 118: Precalculus Algebra
+MATH 119: Precalculus Trigonometry
+MATH 126: Pre-Calculus Algebra Workshop I
+MATH 127: Pre-Calculus Algebra Workshop II
+MATH 128: Pre-Calculus Algebra Workshop
+MATH 129: Precalculus Trigonometry Workshop
+MATH 141: Calculus I
+MATH 142: Calculus II
+MATH 143: Calculus III
+MATH 151: Calculus Workshop I
+MATH 152: Calculus Workshop II
+MATH 153: Calculus Workshop III
+MATH 161: Calculus for the Life Sciences I
+MATH 162: Calculus for the Life Sciences II
+MATH 171: Calculus for the Life Sciences Workshop I
+MATH 172: Calculus for the Life Sciences Workshop II
+MATH 182: Calculus for Architecture and Construction Management
+MATH 192: Calculus for Architecture and Construction Management Workshop
+MATH 202: Orientation to Mathematics Major
+MATH 206: Linear Algebra I
+MATH 221: Calculus for Business and Economics
+MATH 227: Mathematics for Elementary Teaching I
+MATH 231: Calculus for Business and Economics Workshop
+MATH 241: Calculus IV
+MATH 242: Differential Equations I
+MATH 244: Linear Analysis I
+MATH 248: Methods of Proof in Mathematics
+MATH 251: Calculus Workshop IV
+MATH 254: Linear Analysis Workshop I
+MATH 258: Methods of Proof in Mathematics Workshop
+MATH 270: Selected Topics
+MATH 300: Technology in Mathematics Education
+MATH 304: Vector Analysis
+MATH 306: Linear Algebra II
+MATH 316: Introduction to Linear Algebra Workshop II
+MATH 328: Mathematics for Elementary Teaching II
+MATH 329: Mathematics for Elementary Teaching III
+MATH 330: Algebraic Thinking with Technology
+MATH 335: Graph Theory
+MATH 336: Combinatorial Math
+MATH 341: Theory of Numbers
+MATH 344: Linear Analysis II
+MATH 350: Mathematical Software
+MATH 351: Typesetting with LaTeX
+MATH 370: Putnam Exam Seminar
+MATH 371: Math Modeling Seminar
+MATH 400: Special Problems for Advanced Undergraduates
+MATH 404: Introduction to Differential Geometry
+MATH 406: Linear Algebra III
+MATH 408: Complex Analysis I
+MATH 409: Complex Analysis II
+MATH 412: Introduction to Analysis I
+MATH 413: Introduction to Analysis II
+MATH 414: Introduction to Analysis III
+MATH 416: Differential Equations II
+MATH 418: Partial Differential Equations
+MATH 419: Introduction to the History of Mathematics
+MATH 422: Introduction to Analysis I Workshop
+MATH 423: Advanced Mathematics for Teaching
+MATH 424: Organizing and Teaching Mathematics
+MATH 425: Mathematics Student Teaching Seminar
+MATH 435: Discrete Mathematics with Applications I
+MATH 436: Discrete Math with Applications II
+MATH 437: Game Theory
+MATH 440: Topology I
+MATH 441: Topology II
+MATH 442: Euclidean Geometry
+MATH 443: Modern Geometries
+MATH 451: Numerical Analysis I
+MATH 452: Numerical Analysis II
+MATH 453: Numerical Optimization
+MATH 459: Senior Project Seminar
+MATH 460: Senior Project Applied Seminar
+MATH 461: Senior Project I
+MATH 462: Senior Project II
+MATH 470: Selected Advanced Topics
+MATH 474: Advanced Topics in Geometry and Topology
+MATH 475: Advanced Topics in Mathematics
+MATH 476: Advanced Topics in Applied Mathematics
+MATH 481: Abstract Algebra I
+MATH 482: Abstract Algebra II
+MATH 483: Abstract Algebra III
+MATH 485: Cooperative Education Experience
+MATH 491: Abstract Algebra I Workshop
+MATH 495: Cooperative Education Experience
+MATH 500: Individual Study
+MATH 501: Analytic Methods in Applied Mathematics
+MATH 502: Numerical Methods in Applied Mathematics
+MATH 504: Mathematical Topics for Teachers
+MATH 505: Graduate Teaching Seminar
+MATH 520: Applied Analysis I
+MATH 521: Applied Analysis II
+MATH 530: Discrete Mathematics with Applications I
+MATH 531: Discrete Mathematics with Applications II
+MATH 540: Topology I
+MATH 541: Topology II
+MATH 550: Real Analysis
+MATH 560: Field Theory
+MATH 561: Graduate Algebra
+MATH 570: Selected Advanced Topics
+MATH 580: Seminar
+MATH 599: Thesis
+
+
+*** ME ***
+ME 128: Introduction to Mechanical Engineering I
+ME 129: Introduction to Mechanical Engineering II
+ME 130: Introduction to Mechanical Engineering III
+ME 163: Freshmen Orientation to Mechanical Engineering
+ME 211: Engineering Statics
+ME 212: Engineering Dynamics
+ME 228: Engineering Design Communication
+ME 229: Introduction to Mechanical Engineering for Transfers
+ME 234: Philosophy of Design
+ME 236: Measurement and Engineering Data Analysis
+ME 251: Introduction to Detailed Design with Solid Modeling
+ME 270: Selected Topics
+ME 271: Selected Laboratory
+ME 302: Thermodynamics I
+ME 303: Thermodynamics II
+ME 305: Introduction to Mechatronics
+ME 318: Mechanical Vibrations
+ME 320: Consumer Energy Guide
+ME 323: Everything is Designed: The Invention and Evolution of Products
+ME 326: Intermediate Dynamics
+ME 328: Design for Strength and Stiffness
+ME 329: Mechanical Systems Design
+ME 341: Fluid Mechanics I
+ME 347: Fluid Mechanics II
+ME 350: Heat Transfer
+ME 359: Fundamentals of HVAC Systems
+ME 400: Special Problems for Advanced Undergraduates
+ME 401: Stress Analysis
+ME 402: Orthopedic Biomechanics
+ME 404: Applied Finite Element Analysis
+ME 405: Mechatronics
+ME 410: Experimental Methods in Mechanical Design I
+ME 412: Composite Materials Analysis and Design
+ME 415: Energy Conversion
+ME 416: Ground Vehicle Dynamics and Design
+ME 420: Thermal System Design
+ME 422: Mechanical Control Systems
+ME 423: Robotics: Fundamentals and Applications
+ME 428: Senior Design Project I
+ME 429: Senior Design Project II
+ME 430: Senior Design Project III
+ME 431: Mechanical Design Techniques
+ME 434: Enhanced Oil Recovery
+ME 435: Drilling Engineering
+ME 436: Petroleum Production Engineering
+ME 440: Thermal System Design and Optimization
+ME 441: Single Track Vehicle Design
+ME 442: Design of Machinery
+ME 443: Turbomachinery
+ME 444: Combustion Engine Design
+ME 450: Solar Thermal Power Systems
+ME 456: HVAC Air and Water Distribution System Design
+ME 457: Refrigeration Principles and Design
+ME 458: Building Heating and Cooling Loads
+ME 459: HVAC Senior Design Project I
+ME 460: HVAC Senior Design Project II
+ME 470: Selected Advanced Topics
+ME 471: Selected Advanced Laboratory
+ME 488: Wind Energy Engineering
+ME 493: Cooperative Education Experience
+ME 494: Cooperative Education Experience
+ME 495: Cooperative Education Experience
+ME 500: Individual Study
+ME 501: Continuum Mechanics and Elasticity
+ME 503: Inelastic Stress Analysis
+ME 504: Finite Element Analysis
+ME 506: System Dynamics
+ME 507: Mechanical Control System Design
+ME 517: Advanced Vibrations
+ME 518: Machinery Vibration and Rotor Dynamics
+ME 540: Viscous Flow
+ME 541: Advanced Thermodynamics
+ME 542: Dynamics and Thermodynamics of Compressible Flow
+ME 552: Advanced Heat Transfer I
+ME 553: Advanced Heat Transfer II
+ME 554: Computational Heat Transfer
+ME 556: Advanced Heat Transfer III
+ME 563: Graduate Seminar
+ME 570: Selected Advanced Topics
+ME 571: Selected Advanced Laboratory
+ME 579: Fluid Power Control
+ME 599: Design Project (Thesis)
+
+
+*** MCRO ***
+MCRO 100: Introduction to Microbiology Research
+MCRO 221: Microbiology
+MCRO 224: General Microbiology I
+MCRO 225: General Microbiology II
+MCRO 301: Wine Microbiology
+MCRO 320: Emerging Infectious Diseases
+MCRO 342: Public Health Microbiology
+MCRO 402: General Virology
+MCRO 421: Food Microbiology
+MCRO 423: Medical Microbiology
+MCRO 424: Microbial Physiology
+MCRO 433: Microbial Biotechnology
+MCRO 436: Microbial Ecology
+
+
+*** MSL ***
+MSL 101: Foundation of Officership I
+MSL 102: Foundation of Officership II
+MSL 103: Basic Leadership
+MSL 110: Exercises in Military Leadership
+MSL 111: Orienteering
+MSL 112: The Army Physical Fitness Program
+MSL 201: Foundations of Leadership I
+MSL 202: Foundations of Leadership II
+MSL 203: Foundations of Leadership III
+MSL 212: Leader's Training Course
+MSL 229: Ranger Challenge
+MSL 240: American Military History and the Evolution of Western Warfare
+MSL 270: Selected Topics
+MSL 275: Facilitation and Teambuilding
+MSL 301: Tactical Leadership I
+MSL 302: Tactical Leadership II
+MSL 303: Applied Leadership
+MSL 310: Advanced Leadership of Military Exercises
+MSL 312: Leadership of the Army Physical Fitness Program
+MSL 314: Leadership Development and Assessment Course
+MSL 400: Special Problems for Advanced Undergraduates
+MSL 401: Developmental Leadership I
+MSL 402: Developmental Leadership II
+MSL 403: Adaptive Leadership
+MSL 410: Administration and Evaluation of Exercises in Military Leadership
+MSL 412: Administration and Evaluation of the Army Physical Fitness Program
+MSL 470: Selected Advanced Topics
+
+
+*** MU ***
+MU 101: Introduction to Music Theory
+MU 103: Music Theory I: Diatonic Materials
+MU 104: Musicianship I
+MU 105: Music Theory II: Chromatic Materials
+MU 106: Musicianship II
+MU 108: Musicianship III
+MU 114: Introduction to Composing
+MU 120: Music Appreciation
+MU 121: Introduction to Non-Western Musics
+MU 149: Applied Study/Technique
+MU 150: Applied Music
+MU 151: Beginning Class Piano
+MU 152: Elementary Class Piano
+MU 154: Beginning Voice
+MU 155: Beginning Guitar
+MU 161: Piano Skills I
+MU 162: Piano Skills II
+MU 163: Piano Skills III
+MU 168: Piano Accompanying
+MU 170: University Jazz Band
+MU 171: Instrumental Ensembles
+MU 172: Wind Orchestra
+MU 173: Wind Ensemble
+MU 174: Symphony Orchestra
+MU 176: Mustang Band
+MU 177: Chamber Winds
+MU 178: Field Show Marching Skills
+MU 181: Polyphonics
+MU 183: Vocal Ensemble
+MU 185: University Singers
+MU 186: Early Music Ensemble
+MU 188: Arab Music Ensemble
+MU 189: Vocal Practicum
+MU 200: Special Problems for Undergraduates
+MU 210: Musicianship IV
+MU 211: Musicianship V
+MU 212: Musicianship VI
+MU 221: Jazz Styles
+MU 227: Popular Music of the USA
+MU 229: Music of the 60's: War and Peace
+MU 249: Applied Study/Technique
+MU 250: Applied Music
+MU 253: Advanced Class Piano
+MU 259: Beginning Jazz Improvisation
+MU 261: Piano Skills IV
+MU 262: Piano Skills V
+MU 263: Piano Skills VI
+MU 265: Accelerated Piano Skills
+MU 270: Selected Topics
+MU 301: Counterpoint
+MU 303: Music Theory III: Advanced Chromaticism
+MU 305: Music Theory IV: Contemporary Practices
+MU 311: Sound Design: Technologies
+MU 312: Sound Design: Recording
+MU 320: Music Research and Writing
+MU 324: Music and Society
+MU 325: America's Music
+MU 326: Cultural Concepts and Structures in Music
+MU 328: Women in Music
+MU 331: Music of the Middle Ages and Renaissance
+MU 332: Music of the Baroque and Early Classic Eras
+MU 336: Jazz History and Theory
+MU 340: Conducting: Fundamentals
+MU 341: Conducting: Choral
+MU 342: Conducting: Instrumental
+MU 350: Applied Music
+MU 351: Jazz and Popular Music Arranging
+MU 352: Orchestration
+MU 360: Music for Classroom Teachers
+MU 361: Instruments
+MU 368: Piano Accompanying
+MU 370: University Jazz Band
+MU 371: Instrumental Ensemble
+MU 372: Wind Orchestra
+MU 373: Wind Ensemble
+MU 374: Symphony Orchestra
+MU 376: Mustang Band
+MU 377: Chamber Winds
+MU 378: Field Show Marching Skills
+MU 381: Polyphonics
+MU 383: Vocal Ensemble
+MU 385: University Singers
+MU 386: Early Music Ensemble
+MU 388: Arab Music Ensemble
+MU 389: Vocal Practicum
+MU 400: Special Problems for Advanced Undergraduates
+MU 411: Sound Design: Synthesis
+MU 412: Sound Design: Composition and Production
+MU 431: Music of the Classic and Romantic Eras
+MU 432: Music of the Modern Era
+MU 449: Applied Study/Technique
+MU 450: Applied Music
+MU 461: Senior Project
+MU 465: Choral Literature and Rehearsal Techniques
+MU 466: Instrumental Literature and Rehearsal Techniques
+MU 470: Music History: Selected Advanced Topics
+
+
+*** NR ***
+NR 140: Careers in Natural Resources Management and Environmental Sciences
+NR 141: Introduction to Forest Ecosystem Management
+NR 142: Environmental Management
+NR 203: Resource Law Enforcement
+NR 204: Wildland Fire Control
+NR 208: Dendrology
+NR 215: Land and Resource Measurements
+NR 218: Applications in GIS
+NR 247: Forest Surveying
+NR 260: Forest Practices and Environmental Protection
+NR 270: Selected Topics
+NR 290: Intercollegiate Forestry Activities
+NR 306: Natural Resource Ecology and Habitat Management
+NR 307: Fire Ecology
+NR 308: Fire and Society
+NR 312: Technology of Wildland Fire Management
+NR 314: Environmental Life-Cycle Analysis
+NR 315: Measurements and Sampling in Forested Environments
+NR 317: The World of Spatial Data and Geographic Information Technology
+NR 320: Watershed Processes and Management
+NR 321: Water Systems Technology, Issues and Impacts
+NR 323: Human Dimensions in Natural Resources Management
+NR 324: Social Dimensions of Sustainable Food and Fiber Systems
+NR 326: Natural Resources Economics and Valuation
+NR 335: Conflict Management in Natural Resources
+NR 339: Internship in Forest and Natural Resources
+NR 340: Wildland Fire Management
+NR 350: Urban Forestry
+NR 351: Introduction to Emergency Management in California
+NR 360: Ethnicity and the Land
+NR 365: Silviculture and Vegetation Management
+NR 400: Special Problems for Advanced Undergraduates
+NR 401: Disaster Recovery
+NR 402: Forest Health
+NR 404: Environmental Law
+NR 406: Indigenous Peoples and International Law and Policy
+NR 408: Water Resource Law and Policy
+NR 412: Senior Assessment Project
+NR 414: Sustainable Forest Management
+NR 416: Environmental Impact Analysis and Management
+NR 418: Applied GIS
+NR 420: Watershed Assessment and Protection
+NR 421: Wetlands
+NR 425: Applied Resource Analysis and Assessment
+NR 434: Wood Properties, Products and Sustainable Uses
+NR 435: Environmental Policy Analysis
+NR 455: Wildland-Urban Fire Protection
+NR 465: Ecosystem Management
+NR 470: Selected Advanced Topics
+NR 471: Selected Advanced Laboratory
+NR 472: Leadership Practice
+NR 475: Sustainable Forest and Environmental Practices
+NR 476: Senior Project - Advanced Internship Experience in Environmental Science/Management
+NR 477: Senior Project - Research Experience in Environmental Science
+NR 478: Senior Project - Current Topics in Environmental Science/Management
+NR 479: Senior Project - Independent Study
+NR 500: Individual Study
+NR 503: Tropical Forest Ecosystem
+NR 532: Applications in Biometrics and Econometrics
+NR 534: Environmental Modeling
+NR 539: Graduate Internship in Forest Resources
+NR 570: Selected Topics in Forest Resources
+NR 571: Selected Topics Forest Resources Laboratory
+NR 575: Applications in Advanced Watershed Hydrology
+NR 581: Graduate Seminar in Environmental Sciences
+NR 599: Thesis
+
+
+*** PHIL ***
+PHIL 101: Introduction to Philosophy
+PHIL 126: Logic and Argumentative Writing
+PHIL 230: Philosophical Classics: Knowledge and Reality
+PHIL 231: Philosophical Classics: Ethics and Political Philosophy
+PHIL 241: Symbolic Logic
+PHIL 270: Selected Topics
+PHIL 285: Ethics Bowl
+PHIL 309: Early Greek Philosophy through Plato
+PHIL 310: Aristotle and Hellenistic Philosophy
+PHIL 312: Medieval Philosophy
+PHIL 313: Early Modern Rationalism
+PHIL 314: Early Modern Empiricism
+PHIL 315: Kant and 19th Century European Philosophy
+PHIL 317: History of Analytic Philosophy
+PHIL 318: Phenomenology
+PHIL 319: Existentialism
+PHIL 320: Asian Philosophy
+PHIL 321: Philosophy of Science
+PHIL 322: Philosophy of Technology
+PHIL 323: Ethics, Science and Technology
+PHIL 327: Robot Ethics
+PHIL 328: Technologies and Ethics of Warfare
+PHIL 331: Ethics
+PHIL 332: History of Ethics
+PHIL 333: Political Philosophy
+PHIL 334: Philosophy of Law
+PHIL 335: Social Ethics
+PHIL 336: Feminist Ethics, Gender, Sexuality and Society
+PHIL 337: Business Ethics
+PHIL 339: Biomedical Ethics
+PHIL 340: Environmental Ethics
+PHIL 341: Professional Ethics
+PHIL 342: Philosophy of Religion
+PHIL 343: Continental Political Philosophy
+PHIL 350: Aesthetics
+PHIL 351: Philosophy of Literature
+PHIL 369: Postmodernism
+PHIL 385: Advanced Ethics Bowl
+PHIL 400: Special Problems for Advanced Undergraduates
+PHIL 411: Metaphysics
+PHIL 412: Epistemology
+PHIL 421: Philosophy of Space, Time and Matter
+PHIL 422: Philosophy of Mind
+PHIL 423: Philosophy of Language
+PHIL 429: Special Topics in the History of Philosophy
+PHIL 439: Selected Problems in Ethics and Political Philosophy
+PHIL 449: Selected Topics in Recent Philosophy
+PHIL 451: Ethics in the Sciences
+PHIL 460: Senior Project I
+PHIL 461: Senior Project II
+PHIL 470: Selected Advanced Topics
+
+
+*** PEM ***
+PEM 182: Baseball
+PEM 183: Basketball
+PEM 184: Cross Country
+PEM 185: Football
+PEM 189: Soccer
+PEM 191: Swimming
+PEM 192: Tennis
+PEM 193: Track &amp; Field
+PEM 195: Golf
+PEM 196: Wrestling
+
+
+*** PEW ***
+PEW 183: Basketball
+PEW 184: Cross Country
+PEW 189: Soccer
+PEW 190: Softball
+PEW 191: Swimming
+PEW 192: Tennis
+PEW 193: Track and Field
+PEW 194: Volleyball
+PEW 195: Golf
+PEW 196: Beach Volleyball
+
+
+*** PSC ***
+PSC 101: Matter and Energy
+PSC 102: Atoms and Molecules
+PSC 103: The Physical Environment: Earth
+PSC 201: Physical Oceanography
+PSC 307: Nuclear Weapons in the Post-9/11 World
+PSC 320: Energy, Society and the Environment
+PSC 391: Appropriate Technology for the World's People: Development
+PSC 392: Appropriate Technology for the World's People: Design
+PSC 424: Organizing and Teaching Science
+PSC 425: Clinical Experience in Teaching Science Seminar
+PSC 491: Appropriate Technology for the World's People: Development
+PSC 492: Appropriate Technology for the World's People: Design
+
+
+*** PHYS ***
+PHYS 104: Introductory Physics
+PHYS 107: Introduction to Meteorology
+PHYS 111: Contemporary Physics for Nonscientists
+PHYS 121: College Physics I
+PHYS 122: College Physics II
+PHYS 123: College Physics III
+PHYS 125: College Physics I Laboratory
+PHYS 131: General Physics I
+PHYS 132: General Physics II
+PHYS 133: General Physics III
+PHYS 141: General Physics IA
+PHYS 200: Special Problems for Undergraduates
+PHYS 202: Physics on the Computer
+PHYS 206: Experimental Physics
+PHYS 211: Modern Physics I
+PHYS 212: Modern Physics II
+PHYS 220: Introduction to Physics Research
+PHYS 270: Selected Topics
+PHYS 301: Thermal Physics I
+PHYS 302: Classical Mechanics I
+PHYS 303: Classical Mechanics II
+PHYS 310: Physics of Energy
+PHYS 313: Introduction to Atmospheric Physics
+PHYS 315: Introduction to Lasers and Laser Applications
+PHYS 318: Special Theory of Relativity
+PHYS 322: Vibrations and Waves
+PHYS 323: Optics
+PHYS 330: Teaching Physics
+PHYS 340: Quantum Physics Laboratory I
+PHYS 341: Quantum Physics Laboratory II
+PHYS 342: Quantum Physics Laboratory III
+PHYS 357: Advanced Instrumentation in Experimental Physics
+PHYS 400: Special Problems for Advanced Undergraduates
+PHYS 401: Thermal Physics II
+PHYS 403: Particle and Nuclear Physics
+PHYS 404: Research Experience for Advanced Undergraduates
+PHYS 405: Quantum Mechanics I
+PHYS 406: Quantum Mechanics II
+PHYS 408: Electromagnetic Fields and Waves I
+PHYS 409: Electromagnetic Fields and Waves II
+PHYS 410: Physics of Solid Earth
+PHYS 412: Solid State Physics
+PHYS 413: Advanced Topics in Solid State Physics
+PHYS 417: Nonlinear Dynamical Systems
+PHYS 418: Introduction to General Relativity
+PHYS 422: Polymer Electronics Laboratory
+PHYS 423: Advanced Optics
+PHYS 424: Theoretical Physics
+PHYS 452: Solid State Physics Laboratory
+PHYS 461: Senior Project I
+PHYS 462: Senior Project II
+PHYS 463: Senior Project - Laboratory Research I
+PHYS 464: Senior Project - Laboratory Research II
+PHYS 470: Selected Advanced Topics
+PHYS 471: Selected Advanced Laboratory
+PHYS 485: Cooperative Education Experience
+PHYS 495: Cooperative Education Experience
+
+
+*** POLS ***
+POLS 111: California Constitution and Government
+POLS 112: American and California Government
+POLS 180: Political Inquiry
+POLS 225: Introduction to International Relations
+POLS 229: Introduction to Comparative Politics
+POLS 230: Basic Concepts of Political Thought
+POLS 245: Judicial Process
+POLS 270: Selected Topics
+POLS 285: Model United Nations
+POLS 295: Foundations of Mock Trial
+POLS 308: Political Violence and Conflict Resolution
+POLS 310: The Politics of Race, Class, Gender and Sexuality
+POLS 315: The American Presidency
+POLS 316: Political Participation
+POLS 317: Campaigns and Elections
+POLS 319: United States Congress
+POLS 321: Comparative Political Culture
+POLS 324: International Relations Theory
+POLS 325: Global Political Issues
+POLS 328: Politics of Developing Areas
+POLS 329: Ancient and Medieval Political Thought
+POLS 330: Modern Political Thought
+POLS 331: Contemporary Political Thought
+POLS 333: World Food Systems
+POLS 334: Jurisprudence
+POLS 337: U.S. and China in the Contemporary World
+POLS 338: Critical Issues in American Politics
+POLS 339: Authoritarian and Democratic Rule
+POLS 340: American Judicial Politics
+POLS 341: American Constitutional Law
+POLS 342: Constitutional Theory
+POLS 343: Civil Rights in America
+POLS 344: Civil Liberties
+POLS 347: Politics and Popular Culture
+POLS 348: Early American Political Thought
+POLS 349: Contemporary American Political Thought
+POLS 351: Public Policy and Administration
+POLS 359: Research Design
+POLS 361: Quantitative Methodology
+POLS 375: California Politics
+POLS 380: Religion and Politics in the Israeli-Palestinian Conflict
+POLS 381: Peace and War
+POLS 382: Comparative Foreign Policy
+POLS 383: Politics of the European Union
+POLS 384: Comparative Law
+POLS 385: Advanced Model United Nations
+POLS 386: Government Internship
+POLS 387: Research Internship
+POLS 395: Advanced Mock Trial
+POLS 400: Special Problems for Advanced Undergraduates
+POLS 417: Feminist Legal Theory
+POLS 419: Social Movements and Political Protest
+POLS 420: Contemporary U.S. Foreign Policy
+POLS 425: Comparative Political Corruption
+POLS 426: International Organizations and Law
+POLS 427: Politics of the Global Economy
+POLS 428: Issues and Topics in Comparative Politics
+POLS 429: Issues and Topics in International Relations
+POLS 430: Advanced Topics in Political Theory
+POLS 431: Issues and Topics in American Politics
+POLS 435: Political Communication
+POLS 445: Voting Rights and Representation
+POLS 451: Technology and Public Policy
+POLS 452: Technology and International Development
+POLS 457: U.S. Reproductive Politics
+POLS 459: The Politics of Poverty
+POLS 461: Senior Project I
+POLS 462: Senior Project II
+POLS 470: Selected Advanced Topics
+POLS 471: Urban Politics
+POLS 500: Independent Study
+POLS 510: Research Design
+POLS 515: Public Policy
+POLS 518: Public Policy Analysis
+POLS 540: Leadership and Management in Public Policy
+POLS 550: Regulatory and Economic Policy
+POLS 560: Quantitative Methods
+POLS 568: Topics and Issues in Public Policy
+POLS 570: Selected Advanced Topics
+POLS 586: Policy Internship
+POLS 590: Graduate Seminar
+POLS 595: Directed Readings for MPP Comprehensive Exams
+
+
+*** PSY ***
+PSY 200: Special Problems for Undergraduates
+PSY 201: General Psychology
+PSY 202: General Psychology
+PSY 212: Interpersonal Communication
+PSY 251: Laboratory in Group Activities
+PSY 252: Social Psychology
+PSY 254: Family Psychology
+PSY 256: Developmental Psychology
+PSY 260: African American Psychology
+PSY 270: Selected Topics
+PSY 301: Psychology of Personal Development
+PSY 302: Behavior in Organizations
+PSY 304: Intergroup Dialogues
+PSY 305: Personality
+PSY 306: Adolescence
+PSY 310: Psychology of Death
+PSY 311: Environmental Psychology
+PSY 317: Psychology of Stress
+PSY 318: Psychology of Aging
+PSY 320: Health Psychology
+PSY 323: The Helping Relationship
+PSY 324: Psychology of Gender
+PSY 325: Introduction to Positive Psychology
+PSY 329: Research Methods in Psychology
+PSY 330: Behavioral Effects of Psychoactive Drugs
+PSY 333: Quantitative Research Methods for the Behavioral Sciences
+PSY 340: Biopsychology
+PSY 344: Behavioral Genetics
+PSY 350: Teamwork
+PSY 351: Group Dynamics
+PSY 352: Conflict Resolution: Violent and Nonviolent
+PSY 360: Applied Social Psychology
+PSY 370: Introduction to Clinical and Counseling Psychology
+PSY 372: Multicultural Psychology
+PSY 375: Forensic Psychology
+PSY 400: Special Problems for Advanced Undergraduates
+PSY 401: Special Problems: Experiential Learning
+PSY 405: Abnormal Psychology
+PSY 410: History and Systems of Psychology
+PSY 417: Interpersonal Relationships in Childhood and Adolescence
+PSY 419: Self and Identity
+PSY 430: Sensation and Perception
+PSY 431: Assessing Children's Development and Environments
+PSY 432: Psychological Testing
+PSY 448: Research Internship I
+PSY 449: Research Internship II
+PSY 450: Family Intervention
+PSY 453: Supervised Fieldwork I
+PSY 454: Supervised Field Work II
+PSY 456: Behavioral Disorders in Childhood
+PSY 457: Memory and Cognition
+PSY 458: Learning
+PSY 459: Lifespan Theories
+PSY 460: Child Abuse and Neglect
+PSY 461: Senior Project Seminar
+PSY 462: Senior Project
+PSY 465: Cross-Cultural International Psychology
+PSY 470: Selected Advanced Topics
+PSY 475: The Social Psychology of Prejudice
+PSY 485: Cooperative Education Experience
+PSY 495: Cooperative Education Experience
+PSY 500: Individual Study
+PSY 504: Psychopharmacology
+PSY 520: Marriage &amp; Family Therapy: Professional Identity, Theory and Practice
+PSY 535: Child and Adolescent Psychopathology
+PSY 555: Counseling &amp; Communication
+PSY 556: Multicultural Counseling and Psychology
+PSY 560: Individual Therapy: Theory and Application
+PSY 564: Ethics and the Law: MF Therapy
+PSY 565: Diagnosis and Treatment: Psychopathology
+PSY 566: Group Therapy: Theory and Application
+PSY 568: Advanced Psychotherapies
+PSY 569: Counseling Clinic Practicum
+PSY 570: Selected Advanced Topics
+PSY 571: Advanced Family Therapy: Theory and Application
+PSY 572: Child and Adolescent Therapy: Theory and Application
+PSY 574: Psychological Assessment
+PSY 575: Gender and Couple Therapy
+PSY 576: Traineeship: Marital and Family Therapy
+PSY 577: Community Mental Health: Issues and Practices
+PSY 585: Research Methods for Counseling Psychology
+PSY 588: Assessment and Treatment of Substance Use Disorders
+PSY 599: Thesis
+
+
+*** RPTA ***
+RPTA 101: Introduction to the Experience Industry
+RPTA 110: Orientation and College Success in Experience Industry Management
+RPTA 112: Introduction to Parks and Outdoor Recreation
+RPTA 114: Introduction to Hospitality and Travel
+RPTA 160: Introduction to Sport Management
+RPTA 201: Sociocultural Dimensions of Work and Leisure
+RPTA 203: Resource Law Enforcement
+RPTA 205: Leadership and Facilitation
+RPTA 210: Experience Program Design
+RPTA 216: Resort and Lodging Operations
+RPTA 221: Professionalism and Customer Experiences
+RPTA 252: Therapeutic Recreation and Special Populations
+RPTA 257: Leadership and Diverse Groups
+RPTA 260: Community Relations and Sports-Based Youth Development
+RPTA 270: Selected Topics
+RPTA 275: Facilitation and Teambuilding
+RPTA 302: Environmental and Wilderness Education
+RPTA 313: Sustainability in the Experience Industry
+RPTA 314: Sustainable Travel and Tourism Planning
+RPTA 317: Hospitality, Convention and Meeting Management
+RPTA 318: Destination Management
+RPTA 320: Strategic Event Planning
+RPTA 321: Visitor Services in Experience Industry Management
+RPTA 323: Sport Promotions and the Fan Experience
+RPTA 325: Leadership in Outdoor Experiences
+RPTA 330: Directed Field Experience
+RPTA 342: Risk Management for the Experience Industry
+RPTA 350: Sport and Event Venue Management
+RPTA 360: Assessment and Evaluation of Experience Industry Management
+RPTA 370: Experiential Marketing Strategies for Experience Industry Management
+RPTA 400: Special Problems for Advanced Undergraduates
+RPTA 405: Principles of Experience Industry Management
+RPTA 412: Tourism and Outdoor Applications Seminar
+RPTA 413: Tourism and Protected Area Management
+RPTA 420: Festival and Event Management
+RPTA 424: Financial Management in the Experience Industry
+RPTA 450: Resource and Grant Development
+RPTA 460: Senior Project in Experience Industry Management
+RPTA 461: Senior Project
+RPTA 463: Pre-Internship Seminar
+RPTA 465: Internship
+RPTA 470: Selected Advanced Topics
+RPTA 471: Selected Advanced Laboratory
+RPTA 472: Leadership Practice
+RPTA 500: Individual Study
+RPTA 502: Current Issues in Recreation, Parks and Tourism
+RPTA 527: Leisure Behavior and Theory
+RPTA 539: Graduate Internship in Recreation, Parks and Tourism
+RPTA 570: Selected Topics in Recreation, Parks and Tourism
+RPTA 571: Selected Advanced Laboratory in Recreation, Parks and Tourism
+RPTA 581: Graduate Seminar in Recreation, Parks and Tourism
+RPTA 599: Thesis in Recreation, Parks and Tourism
+
+
+*** RELS ***
+RELS 201: Religion, Dialogue, and Society
+RELS 205: Jesus
+RELS 270: Selected Topics
+RELS 301: Religions of Asia
+RELS 302: Abrahamic Religions: Judaism, Christianity, and Islam
+RELS 304: Judaism
+RELS 306: Hinduism
+RELS 307: Buddhism
+RELS 310: Christianity
+RELS 311: Islam
+RELS 344: Approaches to Religion and Spirituality
+RELS 370: Religion, Gender, and Society
+RELS 372: Spiritual Extremism: Asceticism, Mysticism, and Madness
+RELS 374: Religion and Violence
+RELS 376: Religion, Science and Technology
+RELS 378: Religion and Contemporary Values
+RELS 380: Religion and Politics in the Israeli-Palestinian Conflict
+RELS 400: Special Problems for Advanced Undergraduates
+RELS 470: Selected Advanced Topics
+
+
+*** SCM ***
+SCM 101: Introduction to Health Profession Careers
+SCM 150: Supplemental Workshops in Science
+SCM 220: Seminar for Science and Math Tutors
+SCM 230: Seminar for Learning Assistants
+SCM 270: Selected Topics
+SCM 300: Early Field Experience
+SCM 301: Professional School Preparation for Health Profession Careers
+SCM 302: The Learn By Doing Lab Teaching Practicum
+SCM 320: Technology in London
+SCM 335: Nuclear Science and Society
+SCM 350: The Global Environment
+SCM 360: Selected Environmental Issues of California's Central Coast
+SCM 363: Public Health Fieldwork
+SCM 451: Ethics in the Sciences
+SCM 470: Selected Advanced Topics
+SCM 471: Selected Advanced Laboratory
+
+
+*** SOCS ***
+SOCS 200: Special Problems for Undergraduates
+SOCS 400: Special Problems for Advanced Undergraduates
+SOCS 440: Internship
+SOCS 461: Senior Project I
+SOCS 462: Senior Project II
+SOCS 485: Cooperative Education Experience
+SOCS 495: Cooperative Education Experience
+
+
+*** SOC ***
+SOC 110: Comparative Societies
+SOC 111: Social Problems
+SOC 200: Special Problems for Undergraduates
+SOC 218: International Political Economy
+SOC 270: Selected Topics
+SOC 301: Social Work and Social Welfare Institutions
+SOC 305: Social Movements
+SOC 306: Sociology of the Family
+SOC 309: The World System and Its Problems
+SOC 310: Self, Organizations and Society
+SOC 311: Sociology of Gender
+SOC 313: Urban Sociology
+SOC 315: Global Race and Ethnic Relations
+SOC 316: American Ethnic Minorities
+SOC 323: Social Stratification
+SOC 326: Sociology of the Life Cycle
+SOC 327: Social Change
+SOC 350: Social Organization of Modern Japan
+SOC 354: Qualitative Research Methods
+SOC 355: Quantitative Research Methods
+SOC 377: Sociology of Religion
+SOC 395: Sociology of Complex Organizations
+SOC 400: Special Problems for Advanced Undergraduates
+SOC 402: Crime and Violence
+SOC 406: Juvenile Justice and Delinquency
+SOC 412: Criminology &amp; Criminal Justice
+SOC 413: Methods of Social Work
+SOC 421: Social Theory
+SOC 440: Internship
+SOC 444: Incarceration and Society: Perspectives on the Criminal Justice System
+SOC 461: Senior Project I
+SOC 462: Senior Project II
+SOC 464: Professional Development for Sociologists
+SOC 470: Selected Advanced Topics
+
+
+*** SS ***
+SS 121: Introductory Soil Science
+SS 131: Soils in Environmental and Agricultural Systems
+SS 200: Special Problems for Undergraduates
+SS 221: Soil Health and Plant Nutrition
+SS 270: Selected Topics
+SS 301: Earth Sciences/Soils Science Practicum
+SS 321: Soil Morphology
+SS 322: Soil Plant Relationships
+SS 339: Internship in Environmental Earth and Soil Sciences
+SS 400: Special Problems for Advanced Undergraduates
+SS 421: Wetlands
+SS 422: Soil Ecology
+SS 423: Environmental Soil and Water Chemistry
+SS 431: Digital Soil Mapping
+SS 432: Environmental Soil Physics
+SS 440: Forest and Range Soils
+SS 442: Vadose Zone and Groundwater Processes
+SS 444: Soil Judging
+SS 463: Undergraduate Seminar
+SS 470: Selected Advanced Topics
+SS 471: Selected Advanced Laboratory
+SS 500: Individual Study in Soil Science
+SS 501: Research Planning
+SS 508: Environmental Assessment for Erosion Control
+SS 522: Advanced Soil Fertility
+SS 570: Selected Topics in Soil Science
+SS 571: Selected Advanced Laboratory
+SS 581: Graduate Seminar in Environmental Sciences
+SS 582: GIS in Advanced Land Management
+SS 599: Thesis
+
+
+*** SPAN ***
+SPAN 101: Elementary Spanish I
+SPAN 102: Elementary Spanish II
+SPAN 103: Elementary Spanish III
+SPAN 104: Intensive Elementary Spanish
+SPAN 111: Elementary Hispanic Language and Culture
+SPAN 201: Intermediate Spanish I
+SPAN 202: Intermediate Spanish II
+SPAN 203: Intermediate Spanish III
+SPAN 206: Spanish for Heritage Speakers
+SPAN 207: Introduction to Spanish Linguistics
+SPAN 233: Introduction to Hispanic Readings
+SPAN 270: Selected Topics
+SPAN 301: Advanced Composition in Spanish
+SPAN 302: Advanced Conversation and Composition in Spanish
+SPAN 303: Introduction to English-Spanish Translation
+SPAN 305: Significant Works in Spanish
+SPAN 307: Spanish and Latin American Film
+SPAN 340: Chicano/a Authors
+SPAN 350: Hispanic Literature in English Translation
+SPAN 351: Chicano/Latino Writers in the United States
+SPAN 390: Introduction to Creative Writing in Spanish
+SPAN 402: Advanced Topics in Spanish Linguistics
+SPAN 410: Advanced Literature in Spanish
+SPAN 416: Don Quixote
+SPAN 470: Selected Advanced Topics
+
+
+*** STAT ***
+STAT 130: Statistical Reasoning
+STAT 150: Introduction to the Discipline of Statistics
+STAT 200: Special Problems for Undergraduates
+STAT 217: Introduction to Statistical Concepts and Methods
+STAT 218: Applied Statistics for the Life Sciences
+STAT 251: Statistical Inference for Management I
+STAT 252: Statistical Inference for Management II
+STAT 270: Selected Topics
+STAT 301: Statistics I
+STAT 302: Statistics II
+STAT 305: Introduction to Probability and Simulation
+STAT 312: Statistical Methods for Engineers
+STAT 313: Applied Experimental Design and Regression Models
+STAT 321: Probability and Statistics for Engineers and Scientists
+STAT 323: Design and Analysis of Experiments I
+STAT 324: Applied Regression Analysis
+STAT 330: Statistical Computing with SAS
+STAT 331: Statistical Computing with R
+STAT 334: Applied Linear Models
+STAT 350: Probability and Random Processes for Engineers
+STAT 365: Statistical Communication
+STAT 400: Special Problems for Advanced Undergraduates
+STAT 405: Applied Probability Models
+STAT 410: Statistics Education: Pedagogy, Content, Technology, and Assessment
+STAT 414: Multilevel and Mixed Modeling
+STAT 415: Bayesian Reasoning and Methods
+STAT 416: Statistical Analysis of Time Series
+STAT 417: Survival Analysis Methods
+STAT 418: Categorical Data Analysis
+STAT 419: Applied Multivariate Statistics
+STAT 421: Survey Sampling and Methodology
+STAT 423: Design and Analysis of Experiments II
+STAT 425: Probability Theory
+STAT 426: Estimation and Sampling Theory
+STAT 427: Mathematical Statistics
+STAT 434: Statistical Learning: Methods and Applications
+STAT 440: SAS Certification Preparation
+STAT 441: SAS Advanced Certification Preparation
+STAT 461: Senior Project I
+STAT 462: Senior Project II
+STAT 465: Statistical Consulting
+STAT 470: Selected Advanced Topics
+STAT 485: Cooperative Education Experience
+STAT 495: Cooperative Education Experience
+STAT 511: Statistical Methods
+STAT 513: Applied Experimental Design and Regression Models
+STAT 523: Design and Analysis of Experiments I
+STAT 524: Applied Regression Analysis
+STAT 530: Statistical Computing with SAS
+STAT 531: Statistical Computing with R
+STAT 542: Statistical Methods for Engineers
+STAT 570: Selected Advanced Topics
+
+
+*** SIE ***
+SIE 509: Systems Integration Overview
+SIE 510: Introduction to Systems
+SIE 511: Systems Analysis
+SIE 512: Systems Synthesis
+
+
+*** TH ***
+TH 101: First-Year Theatre Seminar
+TH 210: Introduction to Theatre
+TH 220: Acting Methods
+TH 225: Costume Construction I
+TH 227: Theatre History I
+TH 228: Theatre History II
+TH 230: Stagecraft I
+TH 240: Improvisational Theatre
+TH 245: Introduction to Stage Management
+TH 260: Voice and Diction for the Stage
+TH 270: Stage Make-Up
+TH 275: Selected Topics
+TH 280: Body Awareness and Expression
+TH 285: Internship
+TH 290: Script Analysis
+TH 295: Foundations in Theatrical Design
+TH 305: Topics in Diversity on the American Stage
+TH 325: Costume Construction II
+TH 330: Stagecraft II
+TH 341: Advanced Acting Studio
+TH 345: Rehearsal and Performance
+TH 350: Seminar in Playwriting
+TH 360: Theatre in the United States
+TH 370: Costume History
+TH 380: Theatre for Young Audiences
+TH 390: Global Theatre and Performance
+TH 400: Special Problems for Advanced Undergraduates
+TH 430: Scenic Design
+TH 432: Costume Design
+TH 434: Lighting Design
+TH 450: Directing
+TH 461: Senior Project Seminar
+TH 470: Selected Advanced Topics
+TH 471: Selected Advanced Laboratory
+TH 480: Advanced Internship
+
+
+*** UNIV ***
+UNIV 100: University Studies
+UNIV 125: First Year Seminar
+UNIV 321: Undergraduate Research Methods and Practice
+UNIV 330: Cal Poly Land: Nature, Technology, and Society
+UNIV 333: World Food Systems
+UNIV 350: The Global Environment
+UNIV 391: Appropriate Technology for the World's People: Development
+UNIV 392: Appropriate Technology for the World's People: Design
+UNIV 424: Design of Museum Displays of Science, Engineering and Technology
+UNIV 470: Selected Advanced Topics
+UNIV 491: Appropriate Technology for the World's People: Development
+UNIV 492: Appropriate Technology for the World's People: Design
+
+
+*** WVIT ***
+WVIT 101: Orientation to Wine and Viticulture
+WVIT 102: Global Wine and Viticulture
+WVIT 202: Fundamentals of Enology
+WVIT 210: Viticultural Practices
+WVIT 233: Basic Viticulture
+WVIT 270: Selected Topics
+WVIT 301: Wine Microbiology
+WVIT 302: Wine Fermentation Laboratory
+WVIT 331: Advanced Viticulture - Fall
+WVIT 332: Advanced Viticulture - Winter
+WVIT 333: Advanced Viticulture - Spring
+WVIT 339: Internship Wine and Viticulture
+WVIT 343: Branded Wine Marketing
+WVIT 344: Direct to Consumer Wine Sales
+WVIT 365: Wine Analysis and Amelioration
+WVIT 400: Special Problems for Advanced Undergraduates
+WVIT 404: Winemaking I
+WVIT 405: Winemaking II
+WVIT 406: Winemaking III
+WVIT 414: Grape Pest Management
+WVIT 423: Wine Law and Compliance
+WVIT 428: Winegrape Vineyard Management
+WVIT 433: Wine Sales and E-Commerce
+WVIT 442: Sensory Evaluation of Wine
+WVIT 444: Wine Marketing Research and Market Analysis
+WVIT 447: Logistics for the Global Wine Industry
+WVIT 450: Wine Business Strategies
+WVIT 460: Senior Project - Wine Business
+WVIT 463: Issues, Trends and Careers in the Wine Industry
+WVIT 464: Senior Project - Enology and Viticulture
+WVIT 465: Senior Project - Research Experience in Enology or Viticulture
+WVIT 470: Selected Advanced Topics
+WVIT 471: Selected Advanced Laboratory
+
+
+*** WGS ***
+WGS 201: Introduction to Women's and Gender Studies in the United States
+WGS 270: Selected Topics
+WGS 301: Contemporary Issues in Women's and Gender Studies
+WGS 302: Contemporary Issues in Queer Studies
+WGS 311: Sociology of Gender
+WGS 316: Women as Subject and Object in Art History
+WGS 320: Women, Gender and Sexuality in Global Perspective
+WGS 324: Psychology of Gender
+WGS 336: Feminist Ethics, Gender, Sexuality and Society
+WGS 340: Sexuality Studies
+WGS 345: Queer Ethnic Studies
+WGS 350: Gender, Race, Culture, Science and Technology
+WGS 351: Gender, Race, Class, Nation in Global Engineering, Technology &amp; International Development
+WGS 370: Religion, Gender, and Society
+WGS 400: Special Problems for Advanced Undergraduates
+WGS 401: Seminar in Women's and Gender Studies
+WGS 417: Feminist Legal Theory
+WGS 434: American Women's History to 1870
+WGS 435: American Women's History from 1870
+WGS 450: Feminist Theory
+WGS 457: U.S. Reproductive Politics
+WGS 458: Gender and Sexuality in Modern Europe
+WGS 467: Women's and Gender Studies Internship
+WGS 470: Selected Advanced Topics
+
+
+*** WLC ***
+WLC 101: Elementary World Language I
+WLC 102: Elementary World Language II
+WLC 103: Elementary World Language III
+WLC 200: Special Problems for Undergraduates
+WLC 201: Intermediate World Language I
+WLC 202: Intermediate World Language II
+WLC 270: Language Study Abroad
+WLC 290: Selected Topics
+WLC 310: Humanities in World Cultures
+WLC 312: Humanities in Chicano/a Culture
+WLC 318: Culture of Spain: Activities
+WLC 360: Research Methods in World Languages and Cultures
+WLC 370: Language, Technology and Society
+WLC 400: Special Problems for Advanced Undergraduates
+WLC 424: Methods in Teaching Languages Other Than English
+WLC 425: World Languages Clinical Experience Seminar
+WLC 451: Latin American Studies Internship
+WLC 460: Senior Project
+WLC 470: Selected Advanced Topics
+
+
